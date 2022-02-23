@@ -1,0 +1,909 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yadidyah or, The beloved disciple A sermon preached at the funerall of the Honourable Sir Robert Harley, Knight of the Honourable Order of the Bath; at Brampton-Brian in Hereford-shire. December 10. 1656. By Thomas Froysell, minister of the Gospell at Clun in Shropshire.</title>
+            <author>Froysell, Thomas, d. ca. 1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 72 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40518</idno>
+            <idno type="STC">Wing F2249</idno>
+            <idno type="STC">ESTC R202027</idno>
+            <idno type="EEBO-CITATION">99825152</idno>
+            <idno type="PROQUEST">99825152</idno>
+            <idno type="VID">29527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29527)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Yadidyah or, The beloved disciple A sermon preached at the funerall of the Honourable Sir Robert Harley, Knight of the Honourable Order of the Bath; at Brampton-Brian in Hereford-shire. December 10. 1656. By Thomas Froysell, minister of the Gospell at Clun in Shropshire.</title>
+                  <author>Froysell, Thomas, d. ca. 1672.</author>
+               </titleStmt>
+               <extent>[24], 120 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by M.S. for Thomas Parkhurst at the three Crowns over against the Great Conduit at the lower end of Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word of title is in Hebrew characters.</note>
+                  <note>With a preliminary imprimatur leaf.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harley, Robert, --  Sir, 1579-1656.</term>
+               <term>Funeral sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29527:1"/>
+            <pb facs="tcp:29527:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. OR, <hi>The Beloved Diſciple.</hi>
+            </p>
+            <p>A SERMON <hi>PREACHED</hi> At the Funerall of the Honoura<g ref="char:EOLhyphen"/>ble Sir ROBERT HARLEY, Knight of the Honourable Or<g ref="char:EOLhyphen"/>der of the Bath; at <hi>Brampton. Brian</hi> in <hi>Hereford-ſhire.</hi>
+            </p>
+            <p>
+               <hi>December</hi> 10. 1656.</p>
+            <p>By THOMAS FROYSELL, Miniſter of the Goſpell at <hi>Clun</hi> in <hi>Shropſhire.</hi>
+            </p>
+            <p>CANT. 4. 9. <hi>Thou haſt raviſhed my heart, my Siſter, my Spouſe, Thou haſt raviſhed mine Heart, with One of thine Eyes, with One chain of thy neck.</hi>
+            </p>
+            <p>Chap. 7. 6. <hi>How Faire and how Pleaſant art Thou, O L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve, for Delights.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>M. S.</hi> for <hi>Thomas Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>khurſt</hi> at the three Crowns over againſt the Great Conduit at the lower end of <hi>Cheapſide,</hi> 1658.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:29527:2"/>
+            <p>Imprimatur, <hi>Edmond Calamy.</hi>
+            </p>
+         </div>
+         <div type="book_plate">
+            <pb facs="tcp:29527:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:29527:3" rendition="simple:additions"/>
+            <p>Academiae Cantabrigiensis Liber.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:29527:3"/>
+            <head>TO Colonell <hi>Edward Harley,</hi> Eldeſt Son of the Famous Sir <hi>Robert Harley,</hi> Knight of the Honourable Order of the Bath.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough your <hi>Own Vertues Spring</hi> you Rivers of Honour in the Hearts of Gods people, <hi>yet the Tyde of your Fathers Worth flowing in brim's the banks:</hi> Much of your Honour lyeth in being the
+<pb facs="tcp:29527:4"/> 
+               <hi>Son</hi> of <hi>Sir Robert Harley.</hi> 
+               <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Prov. 17. 6.</note> 'Tis your <hi>Honour</hi> to be the Son of ſuch a <hi>Father,</hi> and 'twas his <note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Menan. <hi>apud</hi> Stob.</note> 
+               <hi>Joy</hi> to be the Fa<g ref="char:EOLhyphen"/>ther of ſuch a <hi>Son:</hi> Truth is, a <hi>good Father</hi> is Gods Gift to the Son, and a <hi>good Son</hi> is Gods Gift to the Father.</p>
+            <p>§ 2. Yet you muſt not think to lye ſo <hi>Freſh</hi> and <hi>Orient</hi> in the opnion of <hi>Many Chriſtians</hi> of theſe Times: They have changed their <hi>Opinion</hi> of <hi>Truth</hi> it ſelfe, and therefore much more of <hi>Her Children:</hi> 
+               <note n="c" place="margin">
+                  <hi>Ver<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> conſtantiâ probatur.</hi> Am<g ref="char:EOLhyphen"/>broſ Epi. 40. <hi>Quos amor ve<g ref="char:EOLhyphen"/>rus tenuit, te<g ref="char:EOLhyphen"/>nebit.</hi> S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in Thyeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> They are not <hi>Now,</hi> what they were <hi>before:</hi> They for<g ref="char:EOLhyphen"/>ſake the <hi>Light,</hi> and then ſay, that Others are in the <hi>Dark.</hi>
+               <pb facs="tcp:29527:4"/> They that change their <hi>Princi<g ref="char:EOLhyphen"/>ples,</hi>
+               <note place="margin">Stella c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dens non eſt ſtella, Cometa fuit.</note> will change their <hi>Judge<g ref="char:EOLhyphen"/>ments</hi> of you, and all that are like you: I conceive, the <hi>Death</hi> of <hi>Prophane</hi> men is <hi>In<g ref="char:EOLhyphen"/>digeſtion,</hi> through a mortall <hi>Coldneſſe</hi> in their ſtomack not turning the <hi>food</hi> of <hi>life</hi> at all into Nutriment: The <hi>Death</hi> of theſe Men is <hi>over-digeſtion.</hi> 
+               <note n="d" place="margin">Fit etiam aſſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io a calore praeternaturali in epace, cum nutrimentum a<g ref="char:EOLhyphen"/>duritur, Humi<g ref="char:EOLhyphen"/>dum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſine mo<g ref="char:EOLhyphen"/>do extrahitur, &amp;c. unde lepra, lichene<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſcabi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s &amp;c. <hi>Rod. Go<g ref="char:EOLhyphen"/>den.</hi>
+               </note> As immoderate Heat in the <hi>bodily digeſtion,</hi> exhauſt<g ref="char:EOLhyphen"/>ing and burning up the humid moyſture of the nouriſhing mat<g ref="char:EOLhyphen"/>ter, breeds Leproſies, Ring<g ref="char:EOLhyphen"/>worms, Tetters, and Scabs: So in <hi>Religion,</hi> a <hi>preter-natu<g ref="char:EOLhyphen"/>rall Heat</hi> heightning the <hi>Con<g ref="char:EOLhyphen"/>coction</hi> into <hi>aduſt Choller</hi> of
+<pb facs="tcp:29527:5"/> Pride and zeal, begets <hi>Lea<g ref="char:EOLhyphen"/>prouſies</hi> of Opinions, Errours, Separations, Contentions, and <hi>Scabs</hi> of Rayling againſt the Ordinances and Miniſters of Jeſus Chriſt: <note n="e" place="margin">
+                  <g ref="char:V">Ʋ</g>ti ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> qui<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ex alimen<g ref="char:EOLhyphen"/>to fit ſanguis, ex ſanguine ſpiri<g ref="char:EOLhyphen"/>tus, eò haurien<g ref="char:EOLhyphen"/>dus eſt ſanguis: nam quae jam eò perfectionis de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ênere, ut ſint ſanguis vel hu<g ref="char:EOLhyphen"/>mor roſcidus, u<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eriori conco<g ref="char:EOLhyphen"/>ctione ſiunt de<g ref="char:EOLhyphen"/>teriora. <hi>Ger. Joh. V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi>
+               </note> When <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> is come to its <hi>Due Per<g ref="char:EOLhyphen"/>fection or Digeſtion,</hi> ſo as to become <hi>bloud</hi> and <hi>ſpirits</hi> in us, by <hi>farther Concoction</hi> is made worſe: <hi>Every Degree</hi> beyond that tends destructive to the ſpirituall Eſtate: Theſe Men are as inflamed Enemies to the Growth of the Goſpell, as thoſe that are Prophane; and truly their Reproaches <note n="f" place="margin">A malis vi<g ref="char:EOLhyphen"/>tuperari, laud<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt <hi>Sen.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ixit <hi>Anaxag.</hi>
+               </note> are our Honours: but I hope you will tread in your <note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Greg. <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z.</hi>
+               </note> 
+               <hi>brave Fa<g ref="char:EOLhyphen"/>thers</hi>
+               <pb facs="tcp:29527:5"/> ſteps, and stick cloſe to the <hi>Good old way</hi> of Truth and Godlineſſe.</p>
+            <p>§ 3. <hi>Sir,</hi> This Sermon ſuch a one as it is, <hi>You</hi> had <gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ved it long ago, as ſoon as <hi>You</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<g ref="char:EOLhyphen"/>led for it, had not <hi>God</hi> given me other worke, <hi>Paſſive work,</hi> to undergo: The <hi>Cloud</hi> of <hi>God</hi> upon me and my Family (which hung long upon us) wrapt me up in <hi>ſad Diverſions:</hi> I hope the <note n="h" place="margin">
+                  <hi>Heb. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Chryſoſt.</hi>
+               </note> 
+               <hi>Reſult</hi> of it will be the <hi>Peaceable fruit of Righ<g ref="char:EOLhyphen"/>teouſneſſe.</hi>
+            </p>
+            <p>§ 4. <hi>Sir,</hi> The <hi>Subject</hi> of the Sermon is the <hi>Gracious Saint,</hi> as the <hi>Object</hi> of <hi>Gods Love:</hi> Who the more <hi>lovely,</hi> the <hi>more
+<pb facs="tcp:29527:6"/> beloved;</hi> becauſe he hath the <hi>more</hi> of God in Him, for God to love. <note n="i" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Chry<g ref="char:EOLhyphen"/>ſoſt.</note> 
+               <hi>Gods Love</hi> to man is the <hi>Wonder of the World,</hi> and ſhould be the <hi>Stu<g ref="char:EOLhyphen"/>pefaction</hi> and <hi>Ecſtacy</hi> of the Saints: <hi>What is Man</hi> that thou art mindfull of him! Man laid himſelfe ſo low, that He was not worthy of one thought of <hi>God:</hi> 
+               <note n="k" place="margin">A Deo A<g ref="char:EOLhyphen"/>mari exuperat omnem mundi favorem: a Deo Inhabitari exupera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> omnem mundi Splendo<g ref="char:EOLhyphen"/>rem &amp; magni<g ref="char:EOLhyphen"/>ficentiam. <hi>Sa<g ref="char:EOLhyphen"/>lom. Glaſſius.</hi>
+               </note> The love of God is <hi>the Saints unvaluable Treaſury; Their Joy here, their Heaven hereafter.</hi> If the Early Glimmerings of Gods love upon a ſoul ſhroud ſo much <hi>Joy</hi> within their beams, what will the <hi>Meridian Rayes</hi> of Glory be when they ſhall be re<g ref="char:EOLhyphen"/>vealed?
+<pb facs="tcp:29527:6"/>
+               <note n="l" place="margin">Quomod<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poſſemus illum diligere, niſi prior ille dilige<g ref="char:EOLhyphen"/>ret? ſi pigri e<g ref="char:EOLhyphen"/>ramus ad aman<g ref="char:EOLhyphen"/>dum, non ſimus Pigri ad reda<g ref="char:EOLhyphen"/>mandum. <hi>Auguſt.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Plutarc.</hi>
+               </note> 
+               <hi>If God love us ſo much, How ſhould we love God!</hi> Oh then! how ſhould Our <hi>End</hi> be his Honour, which is <hi>All</hi> he hath from us for <hi>All</hi> we hold of him. <hi>None know his Love, till they feel their Love to him.</hi>
+            </p>
+            <p>§ 5. If it were <hi>Poſſible,</hi> we ſhould live <hi>above repentance;</hi> ſo to Act that we need not to Repent: Though <hi>Repentance</hi> be a great Grace, yet tis greater <hi>Wiſdome</hi> 
+               <note n="m" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epi<g ref="char:EOLhyphen"/>charm. <hi>apud</hi> Stob.</note> not to ſin, that we may not need the ſalve of Repentance: a <hi>Medicine</hi> is very Precious, yet <hi>not to wound</hi> our ſelves is far better, that ſo we may not need the me<g ref="char:EOLhyphen"/>dicine:
+<pb facs="tcp:29527:7"/> Repentance is <note n="n" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>dixit</hi> Pindar.</note> a Grace of After-wiſdome: oh, let us be the <hi>Sons</hi> of <hi>Prome<g ref="char:EOLhyphen"/>theus,</hi> rather than of <hi>Epime<g ref="char:EOLhyphen"/>theus;</hi> Not to ſin is better than to Repent when we have ſin<g ref="char:EOLhyphen"/>ned.</p>
+            <p>§ 6. <hi>How Choyce</hi> ſhould we be, how we <hi>Act</hi> our life ſince we have but <hi>One</hi> life to <hi>Act!</hi> We have not a <note n="o" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epic. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Eurip.</note> 
+               <hi>brace of lives</hi> here, that we might <hi>Correct</hi> in the other, what we have done amiſſe in the firſt; that we might <hi>Re<g ref="char:EOLhyphen"/>cover</hi> in the latter, what we have lost in the former: We have but One Arrow of life to hit the Mark with; and if we
+<pb facs="tcp:29527:7"/> ſhoot that at Random, we looſe All; God will not put a ſecond Arrow into our bow again: we had need then be good Archers with One Arrow.</p>
+            <p>§ 7. Yet alas! how little of our time do we live? Ourwhole Volume of Time is but a ſhort <hi>Compendium,</hi> a <hi>Moment</hi> to Eternity; yet how <hi>little</hi> of this <hi>little</hi> do we live to God, or to our ſouls! The Heathens obſerved, that <note n="p" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> our <hi>Sleep</hi> divides half our life with us, and takes half from us; <hi>Sleep is the dead part of our life:</hi> 
+               <note n="q" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> A<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. Ethic. <hi>l. 1. c.</hi> 8.</note> He that ſleeps is doing nothing, 'tis the <hi>Privation</hi> or <hi>Parentheſis</hi> of acti<g ref="char:EOLhyphen"/>on; and yet (oh the miſery!)
+<pb facs="tcp:29527:8"/> the <hi>living part</hi> of our life is in moſt of us but a <hi>ſpiritual Sleep</hi> of Careleſneſſe and Security: He that is <hi>not upon action, ſleeps while he is awake.</hi>
+            </p>
+            <p>§ 8. Onely the gracious man doth enlarge his life, he enjoyes a <hi>double life;</hi> He that ſpins a Gracious life, draws out a <hi>double threed, He lives twice,</hi> 
+               <note n="r" place="margin">Ampliat atatis ſpatium ſibi vir bonus; Hoc eſt vivere bis, vitâ poſſe p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime frui. <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi>
+               </note> for he <hi>joyeth</hi> in what is ſpent, and <hi>enjoyeth</hi> what is preſent: A <hi>wicked life</hi> paſt is loſt; but, to <hi>live,</hi> and <hi>Review</hi> our former part of Life with <hi>joyfull Reflections</hi> on it, is <hi>to live Twice.</hi>
+            </p>
+            <p>§ 9. <hi>Our work</hi> here ſhould be to live <hi>above the world:</hi>
+               <pb facs="tcp:29527:8"/> Our deſign <hi>in the world,</hi> ſhould be to live <hi>above the world:</hi> We that are travelling <hi>beyond the world,</hi> ſhould walk <hi>above the world:</hi> Why ſhould we be <hi>taken</hi> with Riches, ſeeing we ſhall be <hi>taken from</hi> Riches? and <hi>taken</hi> with Honours, who ſhall be <hi>taken</hi> from the Honours of this world?</p>
+            <p>§ 10. Our Body is but <hi>Dirt</hi> handſomely temper'd, and <note n="s" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Epict. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Xe<g ref="char:EOLhyphen"/>noph.</note> artificially formed, a little <hi>moyſtned Earth:</hi> We derive our <hi>Pedigree</hi> from the dirt, and are <hi>a kin</hi> to Clay: The poor and beggerly <hi>Elements</hi> are our <hi>Materials;</hi> as they are the <hi>Seeds</hi> of our being, ſo of our
+<pb facs="tcp:29527:9"/> diſſolution: How ſhould this <hi>humble us!</hi> we that are but <hi>duſt,</hi> ſhould lye as low as duſt in our own eyes: What is low<g ref="char:EOLhyphen"/>er than <hi>Earth?</hi> He that riſeth out of the <hi>Earth,</hi> hath no Ground why he ſhould be <hi>lifted up:</hi> What Pride ſhould there be in <hi>Mud walls?</hi> How ſhould we <hi>dye dayly!</hi> for we moulder and diſſolve <hi>dayly;</hi> we are no ſooner touch'd, but we are crack'd.</p>
+            <p>§ 11. <hi>Death</hi> is <hi>Neceſſary</hi> and <hi>In-evitable;</hi> it waits not our conſent, we muſt dye whe<g ref="char:EOLhyphen"/>ther we will or no: <hi>Thou fool, this night thy ſoul ſhall be re<g ref="char:EOLhyphen"/>quired</hi>
+               <note place="margin">Luke 12. 20.</note> 
+               <hi>of thee:</hi> It ſhall be <hi>Re<g ref="char:EOLhyphen"/>quired
+<pb facs="tcp:29527:9"/> of thee:</hi> It ſhall be <hi>Re<g ref="char:EOLhyphen"/>quired,</hi> that is, <note n="t" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>eſt poſcere a volen<g ref="char:EOLhyphen"/>te<g ref="char:punc">▪</g>
+                  </hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</hi> Caſaub. <hi>ad</hi> Theophr. Ch<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> fetch'd from thee, whether thou wilt or no; if thou wilt not deliver it up willingly, it ſhall be taken from thee againſt thy will: <hi>Death is an Inflexible Meſſen<g ref="char:EOLhyphen"/>ger,</hi> and Reſolves not to goe without that it comes for, it will not <hi>Deſire</hi> our ſoul of us<g ref="char:punc">▪</g> but <hi>Require</hi> it, <hi>This night thy ſoul ſhall be required of thee: We will and Require you,</hi> is the language of them that are in <hi>Authority,</hi> and will not be denied; and in this <hi>Comman<g ref="char:EOLhyphen"/>ding</hi> language ſpeaks <hi>The King of Terrours:</hi> Oh then, let us not ſo much deſire to live, as ſtudy how to dye;
+<pb facs="tcp:29527:10"/> what a ſad thing is it to dye by force? When Death ſhall find us Eager to live, and not pre<g ref="char:EOLhyphen"/>par'd to dye? <hi>Un-preparation makes our naturall Death a vi<g ref="char:EOLhyphen"/>olent death;</hi> They dye miſera<g ref="char:EOLhyphen"/>bly, who dye deſiring to live.</p>
+            <p>§ 12. Our great Care <note n="u" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſhould be not to <hi>blaſt</hi> the prece<g ref="char:EOLhyphen"/>dent <hi>Flower</hi> of our life with a <hi>Blot</hi> at laſt; not to <hi>blemiſh</hi> the fair Copy of a Good converſation with an <hi>Erratum</hi> in the End: There's many a famous Profeſ<g ref="char:EOLhyphen"/>ſour hath gone off the Stage without an approbation, be<g ref="char:EOLhyphen"/>cauſe he loſt himſelfe in his laſt Act: nay, (which ſhould make us most watchfull, when
+<pb facs="tcp:29527:10"/> we are drawing towards our Epilogue) Glorious Saints, many, if not the moſt of them, when they grow ancient in Re<g ref="char:EOLhyphen"/>ligion, they <hi>take a nap</hi> before they go to Bed: The wiſe Vir<g ref="char:EOLhyphen"/>gins fell a ſleep, a little before the Bridegroom came: <hi>Moſes</hi> when he almoſt arriv'd at <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> within the ſight of the Land, yet for one ſin loſt it: a long Profeſſion makes many ſe<g ref="char:EOLhyphen"/>cure in the latter End; but the ſtone is ſwifteſt in motion, when 'tis neareſt the center: <hi>O Sir, Our Laſt ſhould be our Beſt, and the ſweeteſt at the bot<g ref="char:EOLhyphen"/>tome;</hi> the farther your day goes on, watch the more, <hi>Men
+<pb facs="tcp:29527:11"/> are more prone to drop aſleep in the afternoon:</hi> and let me tell you, 'Tis not <hi>Outward temptations</hi> that overcome us, but <hi>Our own corruptions,</hi> not the moſt <hi>tempeſtuous tempta<g ref="char:EOLhyphen"/>tions,</hi> but our <hi>ſuperficiall Pro<g ref="char:EOLhyphen"/>feſſions;</hi> ah then! let us build firme, aud lay our ſuperſtru<g ref="char:EOLhyphen"/>cture upon an unmoveable Foundation: <hi>Godlineſſe is the Great houſe that we are buil<g ref="char:EOLhyphen"/>ding:</hi> now ſome build (as Chriſt ſaith) upon the ſand, and that Houſe falleth, others build upon a <hi>Rock,</hi> and that Houſe ſtandeth, <hi>Mat. 7. 24,</hi> to 28. 'Tis not the <hi>ſtrength</hi> of Temptations, but the <hi>vanity</hi> of
+<pb facs="tcp:29527:11"/> the <hi>builders</hi> that cauſeth the fal of the Houſe: 'Tis <note n="x" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Chry<g ref="char:EOLhyphen"/>ſoſtomes</hi> Obſervation, <hi>You ſee</hi> (ſaith he) <hi>'tis not the Force of Temptations, but the Folly of the Builders that brings the Ruine, for There</hi> is Rain, and <hi>Here</hi> is Rain, <hi>There</hi> are flouds, and <hi>Here</hi> are flouds, <hi>There</hi> the winds blow, and <hi>Here</hi> the winds beat too, <hi>the one</hi> builds, and <hi>the other</hi> builds, The <hi>Buil<g ref="char:EOLhyphen"/>ding</hi> is the ſame, and the <hi>temp<g ref="char:EOLhyphen"/>tations</hi> are the ſame, but there is not the <hi>Same End,</hi> becauſe there is not the <hi>Same Founda<g ref="char:EOLhyphen"/>tion;</hi> ſo that 'tis not the <hi>Na<g ref="char:EOLhyphen"/>ture</hi> of the <hi>Temptations,</hi> but the <hi>Imprudence</hi> of the <hi>Buil<g ref="char:EOLhyphen"/>ders</hi> that cauſeth the Ruine.</p>
+            <pb facs="tcp:29527:12"/>
+            <p>
+               <hi>Sir,</hi> Whilſt I am writing theſe things, <hi>Our Glaſſe is running:</hi> Your <hi>Time</hi> and mine flieth faster then my <hi>Pen:</hi> We had need improve That <hi>Highly,</hi> which is posting from us ſo <hi>Swiftly: Our dayes are ſhorter then a Poſt;</hi> Lord! what Haſt then do they make! a <hi>Poſt</hi> is engaged to ride hard; and ſometimes he rides upon pain of Death, with a Halter about his neck: <hi>So doe we,</hi> (though the vain Sons of Men think not ſo) <hi>Every ſtep we take is upon Pain of Eternall Death;</hi> if either we <hi>loyter,</hi> or <hi>betray</hi> our Truſt, <hi>Negligence</hi> or <hi>Unfaithfulneſſe</hi> will be our
+<pb facs="tcp:29527:12"/> Halter: <hi>Souls are choyce ware, Eternity a dreadfull Abyſſe, and God will not be Trifled with:</hi> oh then! let not us ſit ſtill, whilſt time is running: no time is ours, but what is pre<g ref="char:EOLhyphen"/>ſent; and that is paſt as ſoon as tis preſent: <hi>Therefore to Jeſus Chriſt I commend you, with Him I leave you,</hi> through him deſiring <hi>All ſpirituall bleſſings in heavenly Places upon you,</hi> So Prays He, who is</p>
+            <closer>
+               <dateline>Clun, <date>Decemb. 22. 1657.</date>
+               </dateline>
+               <salute>SIR,</salute>
+               <signed>Your moſt Obliged Kinſman, and moſt Humble Servant, THO. FROYSELL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:29527:13"/>
+            <pb n="1" facs="tcp:29527:13"/>
+            <head>THE <hi>Beloved Diſciple.</hi>
+            </head>
+            <epigraph>
+               <bibl>DAN. 9. 22, 23.</bibl>
+               <q>
+                  <hi>O Daniel,</hi> I am now come forth to give thee Skill and <g ref="char:V">Ʋ</g>nderſtan<g ref="char:EOLhyphen"/>ding; at the beginning of thy Supplications the commandement came forth, and I am come to ſhew thee, <hi>For thou art Greatly be<g ref="char:EOLhyphen"/>loved.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E have march'd all this day in Sable Poſture, (I pray, we may all walk in white one day with Jeſus Chriſt) This preſent Scene of ſorrow be<g ref="char:EOLhyphen"/>comes us: As the Aire receives
+<pb n="2" facs="tcp:29527:14"/> ſeverall Impreſſions from the ſu<g ref="char:EOLhyphen"/>periour bodies, ſhe looks light<g ref="char:EOLhyphen"/>ſome when the Heavens ſhine, and ſad again, when they look black again upon her; ſo when the Celeſtiall providence ſhall change her countenance upon us, 'tis our duty to change our aſ<g ref="char:EOLhyphen"/>pects.</p>
+            <p>Our loſſe is very great; <hi>We have lost a Chiefe Man, one that was a Common and Publick Good, The Sun of this Country is Set; Sir Ro<g ref="char:EOLhyphen"/>bert Harley</hi> gave a great light to theſe parts: <hi>We</hi> are wont to ſay of fair weather, tis pitty it ſhould doe any hurt, becauſe we are loth it ſhould ever leave us: I am ſure, I may ſay, tis pitty that Good men ſhould due and leave us, that <hi>Brave Sir Robert Harley</hi> ſhould ever be miſſed among us: He was as choyce a Piece as our Age hath known, <hi>A man that was the Rariety of men,</hi> A Man whom his deſcent
+<pb n="3" facs="tcp:29527:14"/> had elevated above the rate of ordinary men, and a man whoſe veins Free Grace had filled with nobler blood: A man of whom I may ſay in the words of my Text, <hi>Thou art greatly Beloved.</hi>
+            </p>
+            <p>Theſe Great words in my Text are ſpoken literally of <hi>Daniel,</hi> of him I muſt ſpeak a while, that he may lead me into the boſom of my diſcourſe, <hi>O Daniel thou art Greatly Beloved.</hi>
+            </p>
+            <p>Firſt, <hi>Daniel</hi> was a Choyce Flower, which the hand of Cap<g ref="char:EOLhyphen"/>tivity tranſplanted out of his na<g ref="char:EOLhyphen"/>tive Garden into <hi>Babylon</hi> to grow there: in the Reign of <hi>Jehojakin</hi> when <hi>Jeruſalem</hi> was taken, <hi>Daniel</hi> was one of thoſe who were brought to <hi>Babylon; The Precious Children of God are Commoners with the wicked in Publick woes and Cala<g ref="char:EOLhyphen"/>mities.</hi>
+            </p>
+            <p>Secondly, The ſtrange ſoyle where He was Tranſplanted, did
+<pb n="4" facs="tcp:29527:15"/> not (as it doth ſome Trees) kill his Growth, this gallant plant (though in <hi>Babylon</hi>) ſhoots up in<g ref="char:EOLhyphen"/>to length of parts and Graces, of learning and lovelineſſe; <hi>True<g ref="char:EOLhyphen"/>born Grace will thrive any where:</hi> as a vehement flame makes fuell of whatſoever it meets; ſo divine Grace makes all things its nutri<g ref="char:EOLhyphen"/>ment, it turns baniſhment and ad<g ref="char:EOLhyphen"/>verſity into Rich food: <hi>Every Condition is its Pasture.</hi>
+            </p>
+            <p>Thirdly, But the wonder is, that <hi>Daniel</hi> and his brave Compa<g ref="char:EOLhyphen"/>nions being ſnatcht from the means of Grace, ſhould yet excell ſo much in Grace: but when God takes his beloved ones from under the ordinary ſhowers of his Ordinances, He wets them with extraordinary dewes: when he deprives them of the breaſts, he nurſeth them with the hand: tis our <hi>Prudence</hi> to prize the means of Grace, but if <hi>Providence</hi> ſhall
+<pb n="5" facs="tcp:29527:15"/> bring us into a wilderneſſe, 'Twill feed us with Manna from Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Fourthly, <hi>Daniel</hi> was of Roy<g ref="char:EOLhyphen"/>all Extraction, at leaſt of noble Derivation: Some ſay, He was a <hi>Sprig of the Royall Tree,</hi> the family of the Kings of <hi>Judah;</hi> if not, he was a Ray of the ſplendent No<g ref="char:EOLhyphen"/>bility, that did ſhine about the throne, he was of the one or th'o<g ref="char:EOLhyphen"/>ther, for 'tis ſaid in the firſt chap<g ref="char:EOLhyphen"/>ter at the third verſe, that the King ſpake unto the Maſter of the Eunuchs, that he ſhould bring Certaine of the Children of <hi>Iſrael,</hi> and of the Kings Seed, and of the Princes; and among theſe were <hi>Daniel, Hananiah, Miſhael,</hi> and <hi>Azariah: Grace is Sometimes graf<g ref="char:EOLhyphen"/>ted into Greatneſſe: Noble Perſons many times are Illuſtrious Saints.</hi>
+            </p>
+            <p>Fifthly, <hi>Daniel</hi> was but young; ſome date him but of ten years, others raiſe his age up to twenty
+<pb n="6" facs="tcp:29527:16"/> years, when He was carried into <hi>Babylon:</hi> it ſeems <hi>Grace did eſpouſe him in his Youth:</hi> We find him ſtrong and ſtrenuous in Grace as ſoon as he was in <hi>Babylon,</hi> in that he would not eat of the Kings meat, nor taſt of the Kings wine, leaſt He ſhould defile himſelfe: He was able to encounter an high temptation with a magnanimous ſpirit: if his Grace was then of ſo large a Volume, ſurely the firſt Edition of it was long before: if the fruit was then ſo big, I queſti<g ref="char:EOLhyphen"/>on not but it began to bloſſome betimes: Grace did eſpouſe him in his youth: Oh! how ſhould this ſhame and ſhake old men and wo<g ref="char:EOLhyphen"/>men not yet converted? whoſe Sun is almoſt ſetting, but no Grace at all in them as yet riſing? <hi>It is a Huge advantage to Conſecrate our Selves to God in our Firſt years:</hi> Sweet <hi>Daniel,</hi> his youth was wiſer than others age; his dawning
+<pb n="7" facs="tcp:29527:16"/> was brighter than their noontide, his Spring Exceeded their Au<g ref="char:EOLhyphen"/>tumn, oh! <hi>Tis an Heaven to ſet out toward Heaven betimes:</hi> The fineſt Travelling is in the morning, <hi>Au<g ref="char:EOLhyphen"/>rora muſis amica.</hi>
+            </p>
+            <p>Sixthly, <hi>Daniel</hi> was a great Student, he did wade in the Ri<g ref="char:EOLhyphen"/>vers of Humane Learning, and Court the Sciences with ſuch di<g ref="char:EOLhyphen"/>ligence, that within a ſhort time He did eſpouſe them: tis ſaid in <hi>Dan.</hi> 1. 4. that the King took or<g ref="char:EOLhyphen"/>der that He and the others with him ſhould be taught the learning and the tongue of the <hi>Caldeans,</hi> and at <hi>v. 17. God gave them Skill in all learning and wiſdome;</hi> that is, they followed their Studies hard, and God Crowned their Endeavours with an Extraordi<g ref="char:EOLhyphen"/>nary bleſſing: For all Arts are from God, who is the <hi>Alpha,</hi> the firſt Cauſe of every Good thing, the Inventer of all liberall Scien<g ref="char:EOLhyphen"/>ces:
+<pb n="8" facs="tcp:29527:17"/> 
+               <hi>This is a Pattern For Young Gentlemen,</hi> oh! that they would write after this Gallant Copy, Give up themſelves to the Study of Generous Arts, and to the Power of Godlineſſe; I ſay, that they would caſt of idleneſſe, and vanity, and prophanneſſe, and give themſelves up to noble Stu<g ref="char:EOLhyphen"/>dies, and to Godlineſſe into the bargain. This noble <hi>Daniel</hi> he ſtudied and prayed, he prayed and ſtudied; he was learned and holy, and he was holy as well as learned: his Graces made him ſit to ſerve a God, his learning and Parts made him fit to ſerve a King: For his Parts the King often convers'd with him; For his Graces, he often convers'd with God, and God in Viſions with him; <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen Learning and Religion meet in a Great Perſon, they Render Him <g ref="char:V">Ʋ</g>ſefull and Ho<g ref="char:EOLhyphen"/>nourable.</hi>
+            </p>
+            <pb n="9" facs="tcp:29527:17"/>
+            <p>Queſt. <hi>But how durſt Daniel live in a Heatheniſh Court the Center of all Temptations? How could he diſpence with himſelf to walk among the ſnares of ſin and Idolatry?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. He was caſt thither by Providence; It was not the place of his <hi>choy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> but his <hi>Cap<g ref="char:EOLhyphen"/>tivity.</hi>
+            </p>
+            <p n="2">2. God that call'd him thither, Crowned him there with Extra<g ref="char:EOLhyphen"/>ordinary ſtrength: <hi>When God calls Hee'il Strengthen:</hi> He was able to own God in the open face of the Court, he feared not the Snares his Enemies laid for him: He prayes, and opens his caſement <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oward <hi>Jeruſalem,</hi> he will not omit that Circumſtance, though with imminent perill of his life: <hi>He had more then a Lyons Spirit that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eared not the Den of Lyons.</hi>
+            </p>
+            <p n="3">3. God ſet <hi>Daniel</hi> there in the Court to Negotiate with the King, for the Good of his Church
+<pb n="10" facs="tcp:29527:18"/> and people: Tis propable, that he was a Great Inſtrument to ob<g ref="char:EOLhyphen"/>tain of <hi>Cyrus</hi> the <hi>Jewes</hi> liberty to Return out of captivity: Some ſay, that <hi>Daniel</hi> liv'd and dyed in <hi>Babylon:</hi> when the <hi>Jewes</hi> return'd with <hi>Ezra</hi> to their Land, <hi>Daniel</hi> would not; he ſtayed to promote the welfare and ſafety of the <hi>Jewes</hi> with <hi>Cyrus.</hi>
+            </p>
+            <p>In my Text an Angell is ſent by God from Heaven to tell him, <hi>Thou art greatly beloved,</hi> we may ſtile him <hi>Daniel the greatly beloved,</hi> the greatly beloved <hi>of God.</hi>
+            </p>
+            <p>If you ask why he ſhould wear this ſtile <hi>Greatly beloved</hi> above ma<g ref="char:EOLhyphen"/>ny others. you muſt know,</p>
+            <p>Firſt, That <hi>Daniel</hi> was a man raiſed to a tranſcendent height of Grace above others.</p>
+            <p>Secondly, He was deeply de<g ref="char:EOLhyphen"/>voted to prayer and faſting.</p>
+            <p>Thirdly, He was emptied out of himſelfe into a Sea of love to
+<pb n="11" facs="tcp:29527:18"/> the Church of God: for he was waſting himſelfe in faſting and wraſtling with God in prayer for <hi>Jeruſalem,</hi> when the Angell courts him with this ſalutation, <hi>O Daniel thou art Greatly Beloved.</hi>
+            </p>
+            <p>The words in the Originall are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> For thou art De<g ref="char:EOLhyphen"/>ſires, or Delights: in Scripture the Abſtract is with Excellent Emphaſis and Energy put for the Concret, or the Subſtantive for the Adjective, in <hi>Ezek. 35. 15. Thou ſhalt be deſolate, O mount Seir,</hi> the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Thou ſhalt b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Deſolation,</hi> that is, moſt deſolate: In <hi>Prov. 14. 1. Folly,</hi> is put for a woman of <hi>Folly,</hi> or a fooliſh wo<g ref="char:EOLhyphen"/>man, <hi>Every wiſe woman buildeth her Houſe, but</hi> Folly [i. <hi>the fooliſh wo<g ref="char:EOLhyphen"/>man] plucketh it down with her Hands:</hi> In <hi>Gen.</hi> 3. 6. The wo<g ref="char:EOLhyphen"/>man ſaw that the Tree was good for food, and that it was <hi>Pleaſant</hi> to the eyes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>A Deſire</hi> to the
+<pb n="12" facs="tcp:29527:19"/> eyes, that is, <hi>Deſideratiſſima, moſt deſirable:</hi> ſo <hi>Strength,</hi> for ſtrong<note place="margin">Iſa. 3. 25.</note> men, or men of <hi>Strength;</hi> and <hi>Pride,</hi> for proud men, or men of<note place="margin">Pſal. 36. 11.</note> 
+               <hi>Pride, Let not the foot of</hi> Pride, [i. of proud men] <hi>come againſt me,</hi> the Abſtract ſhews that they were very <hi>Proud</hi> men indeed: So here in the Text, <hi>Thou art Deſires,</hi> or <hi>Delights,</hi> Gods delight, the man of his de<g ref="char:EOLhyphen"/>lights, very much delighted in: and ſo ſhould that Text (for ought I know) be expound<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in <hi>James 2. 13. He ſhall have judge<g ref="char:EOLhyphen"/>ment without mercy that hath ſhewed no mercy, and mercy rejoyceth againſt judgement,</hi> that is, Mercifull men, or men of mercy ſhall rejoyce a<g ref="char:EOLhyphen"/>gainſt Judgement, that is, in an Evangelicall ſence they ſhall not fear the judgement of God: So here in the Text, thou art <hi>Deſires</hi> or <hi>Delights,</hi> that is, thou art a man of <hi>Deſires</hi> or <hi>Delights:</hi> and ſo it is fully Expreſſed in Chap. 10. at
+<pb n="13" facs="tcp:29527:19"/> 
+               <hi>v.</hi> 11, 19. there tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> man of <hi>Deſires,</hi> that is, <hi>Deſirable</hi> man, Thou Gallant man, more lovely, and more loved than others.</p>
+            <p>Let me add, theſe <hi>Abſtracts</hi> in a <hi>Plurall</hi> form, enhance the Notion of the word to a ſuperlative de<g ref="char:EOLhyphen"/>gree; a man of <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> hol<g ref="char:EOLhyphen"/>deth<note place="margin">Prov. 11. 12.</note> his peace; 'tis of the Plurall<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> number, a man of <hi>
+                  <g ref="char:V">Ʋ</g>nderſtandings,</hi> for, a man of <hi>Very Great <g ref="char:V">Ʋ</g>nderſtan<g ref="char:EOLhyphen"/>ding:</hi>
+               <note place="margin">Prov. 1. 20.</note> ſo <hi>Solomon</hi> ſpeaking of Je<g ref="char:EOLhyphen"/>ſus<note place="margin">Prov. 9. 1.</note> Chriſt, ſaith he, <hi>Wiſdome</hi> cry<g ref="char:EOLhyphen"/>eth out, <hi>Wiſdome</hi> hath builded her houſe; <hi>Wiſdome</hi> is one of Chriſts Names, but the word is <hi>Wiſdomes,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> that is, the greateſt and chiefeſt Wiſdome: Jeſus Chriſt is called <hi>Wiſdomes,</hi> for <hi>Honours</hi> ſake, as if he had ſaid, the <hi>Wiſdome</hi> of <hi>wiſdomes:</hi> So here <hi>Daniel</hi> is called in the Plurall number <hi>Deſires</hi> or <hi>Delights,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> that is, One moſt dearly <hi>Deſired,</hi> or <hi>Delighted</hi> in; that is, as we ren<g ref="char:EOLhyphen"/>der it, <hi>Greatly Beloved.</hi>
+            </p>
+            <pb n="14" facs="tcp:29527:20"/>
+            <p>When <hi>Daniel</hi> is ſtiled a man of <hi>Deſires,</hi> ſome would underſtand it <hi>actively,</hi> that is, a man that was full of deſires after the Churches Good, the <hi>Jewes</hi> deliverance, and Gods glory: I remember <hi>Ger<g ref="char:EOLhyphen"/>hard</hi> on 1 <hi>Pet.</hi> 1. 10. [<hi>of which ſalvation the Prophets have enquired and ſearched diligently</hi>] ſaith, <hi>Da<g ref="char:EOLhyphen"/>niel</hi> was called a man of <hi>Deſires,</hi> becauſe he deſired ſo much the knowledge of the coming of the Meſſiah our Lord Jeſus Chriſt, and therefore for his deſires, the Period of Time wherein Chriſt ſhould come, was manifeſted by the Angell to him: but I rather apprehend it otherwiſe, and un<g ref="char:EOLhyphen"/>derſtand it <hi>Paſſively,</hi> He is called a man of <hi>Deſires,</hi> becauſe he was ſo much <hi>Deſirable,</hi> or, as we tranſlat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it, <hi>Greatly Beloved:</hi> For 'tis fre<g ref="char:EOLhyphen"/>quent in Scripture in this ſence; what is more Excellent, and more prized than others, is ſo ſtiled,
+<pb n="15" facs="tcp:29527:20"/> in <hi>Dan. 10. 3. I ate no</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> bread of <hi>Deſires,</hi> that is, no dainty food, which mens palates delight in above other: in <hi>Ezek. 26. 12. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Thy Pleaſant houſes,</hi> Houſes of thy <hi>Deſire,</hi> that is, <hi>ſtately Houſes</hi> which you count your pa<g ref="char:EOLhyphen"/>radiſes: ſo in <hi>Gen. 27. 15. Rebe<g ref="char:EOLhyphen"/>kah took Goodly raiment</hi> of her el<g ref="char:EOLhyphen"/>deſt ſon <hi>Eſau,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Ray<g ref="char:EOLhyphen"/>ment of <hi>Deſires,</hi> that is, <hi>Coſtly Ray<g ref="char:EOLhyphen"/>ment,</hi> which <hi>we deſire</hi> to put on rather than others: So here, Thou man of <hi>Deſires,</hi> that is, <hi>Deſi<g ref="char:EOLhyphen"/>red</hi> or <hi>Beloved</hi> of God above o<g ref="char:EOLhyphen"/>thers, his <hi>deliciae,</hi> his <hi>delicate</hi> one, his <hi>darling.</hi> 'Tis uſuall, you ſee, in the <hi>Jewes</hi> language to call ſuch things <hi>deſired,</hi> as were had in grea<g ref="char:EOLhyphen"/>ter Eſteem among them: ſuch a one was <hi>Daniel</hi> in the eye of God, <hi>O Daniel, thou art greatly beloved;</hi> Whence I take up this Obſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p n="1">1. <hi>Some Saints are greatly Belo<g ref="char:EOLhyphen"/>ved:
+<pb n="16" facs="tcp:29527:21"/> Some Saints are higher in Gods Eſteem, than others are.</hi>
+            </p>
+            <p>Again, from the Time, when the Angell came to <hi>Daniel</hi> from God with this High Salutation, which was while <hi>Daniel</hi> was faſt<g ref="char:EOLhyphen"/>ing and praying, I obſerve, that</p>
+            <p n="2">2. <hi>Prayer is the Valley of Viſions, the mount of Heavenly Raptures.</hi>
+            </p>
+            <p>There God feaſts his Saints <hi>with divine appearances:</hi> if ever you would be raviſh'd with hints of love, or ſpecial diſcoveries, then it is when you are at prayer. <hi>It is to be obſerv'd</hi> concerning Chriſt himſelf, that he had the brighteſt ſunſhines of his Fathers diſcove<g ref="char:EOLhyphen"/>ries upon him, when he was mo<g ref="char:EOLhyphen"/>ving in the Orbe of prayer: In <hi>Mat.</hi> 3. 'tis ſaid that Jeſus when he was baptized, <hi>the Heavens were ope<g ref="char:EOLhyphen"/>ned, and the Spirit of God<g ref="char:punc">▪</g> deſcended like a Dove upon him, And lo, a voyce from Heaven, ſaying, This is my be<g ref="char:EOLhyphen"/>loved Son in whom I am well pleaſed;
+<pb n="17" facs="tcp:29527:21"/> Luke</hi> adds, that Jeſus being bap<g ref="char:EOLhyphen"/>tized, <hi>and praying,</hi> the Heaven was<note place="margin">Luke 3. 21.</note> opened: <hi>The Holy Dove came upon Chriſt from Heaven, while Chriſt was ſoaring up to Heaven upon the wing of Prayer:</hi> in the ſame Evangeliſt,<note place="margin">Luke 9. 28, 29.</note> 'tis ſaid, that <hi>Jeſus Chriſt went up into a mountain to pray, and as he prayed, the faſhion of his countenance was altered, and his reyment was white and gliſtering;</hi> See, prayer is a Glorifying Ordinance: The Son of God, as he prayed, did ſhine as the Sun; Prayer drew Glory down out of Heaven upon him: Would ye meet with Glo<g ref="char:EOLhyphen"/>rious transfigurations upon your ſouls? Go up then to Mount Ta<g ref="char:EOLhyphen"/>bor, and pray. But the Doctrine I ſhall ſpeak to, is</p>
+            <q>Doct. <hi>Some Saints are Greatly Beloved: All the Saints are beloved, but ſome Saints are Greatly Beloved.</hi>
+            </q>
+            <p>Some Saints are more in Gods
+<pb n="18" facs="tcp:29527:22"/> than others are, his deſire and de<g ref="char:EOLhyphen"/>light runs out in a fuller Tyde on ſome than it doth on others; His love is tender to all, but 'tis high<g ref="char:EOLhyphen"/>er to ſome: The more grace one Saint hath above another, the more God loves that Saint above another<g ref="char:punc">▪</g>
+            </p>
+            <p>To explain this we muſt take notice that Gods love hath ſeve<g ref="char:EOLhyphen"/>rall objects.</p>
+            <p n="1">1. There is his love, whereby he loves himſelfe.</p>
+            <p n="2">2. And his love whereby he loves <hi>Res extra ſe poſitas,</hi> things out out of himſelfe.</p>
+            <p>Firſt, He loves himſelfe, as the <hi>greateſt good:</hi> God loves himſelfe <hi>firſt</hi> and <hi>beſt:</hi> every thing that hath ſence and underſtanding loves it ſelf, and God who knows himſelfe to be the <hi>Beſt</hi> Good, cannot but love himſelf <hi>Beſt;</hi> and therefore 'tis ſaid, the Lord made<note place="margin">Prov. 16. 4.</note> 
+               <hi>All things for himſelfe.</hi>
+            </p>
+            <p n="1">
+               <pb n="19" facs="tcp:29527:22"/>1. <hi>The</hi> Creation of all things is the Birth of his love to himſelfe; which he made as mirrours to re<g ref="char:EOLhyphen"/>flect his own Excellencies: when he made thoſe Beauteous Paires of Heaven and Earth, he did it to glorifie himſelf, being the Glaſſes to behold his own wiſdome and all mighty Power.</p>
+            <p n="2">2. <hi>And</hi> when God deſtroyed the old world, 'twas out of love to himſelfe; for therein he glorified himſelfe: in thoſe waters he ſaw the Image of his Juſtice; They were the looking Glaſſe of <hi>That Attribute,</hi> and therefore God is ſaid <hi>To laugh at</hi> and <hi>Rejoyce in the deſtruction of a Sinner,</hi> becauſe he is pleaſed with the Oeconomy of his own Laws, and the Excellent proportions He makes of his Judgements to their ſins: Thus when he deſtroyed <hi>Pharaoh</hi> he did it out of a ſupream love to him<g ref="char:EOLhyphen"/>ſelfe, and his own great Name;
+<pb n="20" facs="tcp:29527:23"/> 
+               <hi>And in very deed for this cauſe I rai<g ref="char:EOLhyphen"/>ſed</hi>
+               <note place="margin">Exod. 9. 16.</note> 
+               <hi>thee up for to ſhew in thee my Power, and that my Name may be declared throughout all the Earth:</hi> Sinner, Take heed and put a ſtop to thy Race in ſin, if thou goeſt on a little further, it may be, God cannot ſpare thee <hi>for his Names ſake:</hi> He muſt puniſh for the Ho<g ref="char:EOLhyphen"/>nour of his Name, he cannot but love himſelfe, and therefore can<g ref="char:EOLhyphen"/>not but puniſh Sinners out of Re<g ref="char:EOLhyphen"/>ſpect unto <hi>his Name: He is Engaged to puniſh, becauſe he is Engaged to himſelfe.</hi>
+            </p>
+            <p n="3">3. So he Acts all his works of mercy chiefly out of love to him<g ref="char:EOLhyphen"/>ſelfe: He loves his people, but he loves them for the love he b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ars to himſelfe, and delivers them for the love he bears to his own name, <hi>His Name being put upon them:</hi> They in themſelves are not worth his deliverances, and when their ſins plead againſt their deli<g ref="char:EOLhyphen"/>verance,
+<pb n="21" facs="tcp:29527:23"/> his own name intercedes for them, <hi>But I had pity for my holy</hi>
+               <note place="margin">Ezek. 36. 21. 22, 23.</note> 
+               <hi>Name, which the Houſe of Iſrael had prophaned among the Heathen whi<g ref="char:EOLhyphen"/>ther they went, &amp;c.</hi> that is, You are worthy no pity, yet I will have pity for my holy Name; <hi>That he might free his Name from Baſe aſperſions and Imputations.</hi>
+            </p>
+            <p>Secondly, God hath love which flows out of him upon the crea<g ref="char:EOLhyphen"/>ture, I ſay, God hath love for himſelfe, and he hath love to be<g ref="char:EOLhyphen"/>ſtow upon the creature too; <hi>for the Creature is the Work of his hands:</hi> 'Tis naturall to all men to love their own works, and what they have curionſly form'd, to ſpend many a pleaſing fight upon it: An Artiſt when he hath made an Excellent and comely piece, is in love with it, becauſe it is the Elaborate product of his own conception, and hath ſtampt the Image of his Rich <hi>Idaea</hi> and fancy
+<pb n="22" facs="tcp:29527:24"/> on it: and thus the Scripture brings in God, viewing and feaſt<g ref="char:EOLhyphen"/>ing his eye with a delightfull Complacency upon all his works that he had made; and <hi>God ſaw every thing that he had made, and</hi>
+               <note place="margin">Gen. 1. 31.</note> 
+               <hi>behold it was very good;</hi> He looks and loves, he loves and looks upon every thing that he had made, not onely man, but <hi>Every thing</hi> that he had made: He looks upon man, and loves his morall goodneſſe that he had carved in him; he looks upon every thing, and loves the naturall goodneſſe he had ſtampt upon them.<note place="margin">Gods Love two-fold.</note>
+            </p>
+            <p>
+               <hi>This</hi> large love of God compre<g ref="char:EOLhyphen"/>hends all the Creatures in it, not<note place="margin">1. Common.</note> onely the Rationall but the Ina<g ref="char:EOLhyphen"/>nimate Creatures in the Boſome of it, I ſay, his love, whereby he will'd their being, and ſtill pre<g ref="char:EOLhyphen"/>ſerves their being; and whatever Prints and Characters of himſelfe they have, takes pleaſure in them,
+<pb n="23" facs="tcp:29527:24"/> as an Artiſt doth in his Rare Compoſures.</p>
+            <p>
+               <hi>But there is a Speciall love</hi> of God,<note place="margin">2. Speciall.</note> his choyce love, which Elevates and lifts ſome perſons up to a ſu<g ref="char:EOLhyphen"/>pernaturall ſtate in Jeſus Chriſt; this is that love we are ſpeaking of. God beholding the lump of fallen man as a vaſt Dunghill or Heap of Dirt, ſaw no difference of Perſons in it, but all Equally loathſome and filthy; how could it be otherwiſe? for one piece of dung is not ſweeter than ano<g ref="char:EOLhyphen"/>ther, one dram of dirt is not cleaner than another: I ſay, God caſting his Eye upon that Noyſome and unſavoury Mixon, his wiſe and good Plea<g ref="char:EOLhyphen"/>ſure thinks meet to have benign thoughts towards ſome, he takes theſe up into his Divine purpoſe, and in time takes them out of their ſordid ſtate, with Curious artifice he refines them from their
+<pb n="24" facs="tcp:29527:25"/> filth, and ſets up a Fragrant work of Grace in them; he writes them his Sons and Daughters, and gives them an Eſtate of Eternall Glory, and all in Jeſus Chriſt.</p>
+            <p>This is his ſpeciall Love, which we muſt diſtinguiſh into his love of <hi>Good will,</hi> and his love of <hi>Com<g ref="char:EOLhyphen"/>placency.</hi>
+            </p>
+            <p>There is obſerv'd a difference between theſe.</p>
+            <p>Firſt, <hi>His love of good will</hi> pre<g ref="char:EOLhyphen"/>cedes<note place="margin">Amor Benevo<g ref="char:EOLhyphen"/>lentiae.</note> the work of Grace, and goes before it: This love finds us Sin<g ref="char:EOLhyphen"/>ners, and makes us Saints: This love of God is not founded upon Reaſons in the Object: with this love he loved us firſt, before we being Juſtified by his Grace could love him: This love finds no<g ref="char:EOLhyphen"/>thing in us for which he ought to love us: This love gives us Grace, as the Apoſtle ſaith, <hi>God for his great love wherewith he loved</hi>
+               <note place="margin">Eph. 2. 4, 5.</note> 
+               <hi>us, even when we were dead, hath
+<pb n="25" facs="tcp:29527:25"/> quickned us together with Chriſt:</hi> This love can have ro Cauſe but it ſelfe.</p>
+            <p>Secondly, This love is free, <hi>Nullis meritis, niſi bonitate aman<g ref="char:EOLhyphen"/>tis excitatus,</hi> not ſtirr'd up by any objective Goodneſſe in us, but onely the ſelf-moving Goodneſſe of him that loved us; it ſees no loadſtone in us to draw it out, nay, it finds ſin and ſordidneſſe upon us, and yet he loves us: He loves us without <hi>Neceſſity,</hi> with<g ref="char:EOLhyphen"/>out <hi>Attractive,</hi> and without <hi>En<g ref="char:EOLhyphen"/>gagement;</hi> nay, let me ſay, if there were any motive in us why he lo<g ref="char:EOLhyphen"/>ved us, it was becauſe we were mi<g ref="char:EOLhyphen"/>ſerable and <hi>
+                  <g ref="char:V">Ʋ</g>nworthy his love:</hi> But the truth is, nothing did encline and diſpoſe his heart to us, but his own will: <hi>Of his own will begat</hi>
+               <note place="margin">James 1. 18.</note> 
+               <hi>he us,</hi> and the ſame will that begat us, paſſed by others: Gods love to himſelfe, is Naturall and Ne<g ref="char:EOLhyphen"/>ceſſary; But his love to his Crea<g ref="char:EOLhyphen"/>tures
+<pb n="26" facs="tcp:29527:26"/> is not, he hath mercy on whom he will have mercy: <hi>It is a free love and a free mercy,</hi> He hath mercy on whom he will have mercy: O! wonder at God, all ye his Saints, and beloved ones, in his mercy to you; let it caſt you into an high Trance of holy admiration.</p>
+            <p>Thirdly, This Love of God, <hi>The love of his good will,</hi> is equall to all his Saints, in many Re<g ref="char:EOLhyphen"/>ſpects.</p>
+            <p n="1">1. In reſpect of the act of his will, (as the Schoolmen ſay:) God <hi>Equally</hi> wills Good to all his Saints, though he doth not will <hi>Equall</hi> Good to all his Saints: He doth not <hi>more will</hi> Good to one than to another, though he <hi>wills more</hi> good to ſome than to others; There are no degrees in his will, though there are degrees in the things willed.</p>
+            <p n="2">2. So Election doth equally
+<pb n="27" facs="tcp:29527:26"/> paſſe upon them all, and not upon one more than another: God cannot be ſaid to chuſe one, more than another, of them whom he hath Choſen; and therefore they are called under one word [<hi>the Election] The Election hath obtained</hi>
+               <note place="margin">Ro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 11. 17.</note> 
+               <hi>it,</hi> becauſe they are all equally Elected.</p>
+            <p n="3">3. In reſpect of <hi>the common be<g ref="char:EOLhyphen"/>nefits</hi> of ſalvation by Jeſus Chriſt, they are all Equally favoured and accepted.</p>
+            <p n="1">1. They are all Equally Re<g ref="char:EOLhyphen"/>deemed by Jeſus Chriſt; The Lord Chriſt did die Equally for all thoſe his Father gave him, none can ſay, he intended me in his death more than another, nei<g ref="char:EOLhyphen"/>ther did One of us Coſt him more than Another.</p>
+            <p n="2">2. In Gods Gracious act of vo<g ref="char:EOLhyphen"/>cation or calling them to Jeſus Chriſt, they are Equally looked upon.</p>
+            <p n="3">
+               <pb n="28" facs="tcp:29527:27"/>3. They are Equall in Juſtifi<g ref="char:EOLhyphen"/>cation: it may be one is more juſtified than another <hi>Extenſively,</hi> but not <hi>Intenſively;</hi> that is, one hath more Sins forgiven than another, but <hi>Intenſively,</hi> as our Juſtification conſiſts in Gods gra<g ref="char:EOLhyphen"/>cious Repute or acceptation of us as juſt and righteous, ſo they are all Equall.</p>
+            <p>Again, in reſpect of the Appli<g ref="char:EOLhyphen"/>caion of Chriſts Righteouſneſſe, ſo there is a graduall difference: Some receive it with a ſtronger faith than others, and apply it according to their neceſſity and indigence, therefore we may ſay, ſome partake of it more than o<g ref="char:EOLhyphen"/>others; yet becauſe Juſtification is an act of God pardoning belie<g ref="char:EOLhyphen"/>vers, whom he pardons, he par<g ref="char:EOLhyphen"/>dons equally, though all that are pardoned are not equall ſinners.</p>
+            <p>Again, in reſpect of Righteouſ<g ref="char:EOLhyphen"/>neſſe imputed, all believers are
+<pb n="29" facs="tcp:29527:27"/> equally juſt: for as they are juſti<g ref="char:EOLhyphen"/>fied, they ſtand juſt before God in the moſt perfect Righteouſneſſe of Jeſus Chriſt; and by it the weak Chriſtian is juſtified, as well as the ſtrong: upon this account the faith of the Saints (though un<g ref="char:EOLhyphen"/>equall in degrees) is yet ſaid to be <hi>Alike</hi> or <hi>Equally precious.</hi> The<note place="margin">2 Pet. 1. 1.</note> merit of Chriſt is Equally impu<g ref="char:EOLhyphen"/>ted to all that believe: And the Reward of his merit in reſpect of of ſubſtance (which is Eternall life) is equally given to all that believe.</p>
+            <p n="4">4. Their adoption is equall; They are all equally the Sons of God, God is not more Father to one than to another, they have an equall Right to the Inheri<g ref="char:EOLhyphen"/>tance.</p>
+            <p n="5">5. Again, all the Promiſes of the Covenant of Grace that con<g ref="char:EOLhyphen"/>cern the <hi>Eſſentialls</hi> of Salvation, are equall to them all, and are
+<pb n="30" facs="tcp:29527:28"/> fulfilled in one believer as well as another: to give an inſtance, the Promiſe of perſeverance is to every Saint as well as to any: as the leaſt Star is as firmly ſix't in its Orb, as the glorious Sun; and there is no more danger of the falling of the one than of the o<g ref="char:EOLhyphen"/>ther: ſo the weakeſt Saints are as ſure to be kept in the ſphaere of Perſeverance unto ſalvation, as the Saints of the firſt magnitude: 'tis not ſtrength of Grace, but Gods love and conſtant influence that preſervs the ſtrongeſt Saints, and the ſame attends the weakeſt. Thus far his Love of Good will is Equall.</p>
+            <p>Yet (let me add my thoughts) in reſpect of ſome ſpecial Flowers in the Garland of ſalvation, this love of God, <hi>His love of Good will is not Equall</hi> to all the Saints.</p>
+            <p>God gives higher Meaſures of Grace to ſome than he doth to
+<pb n="31" facs="tcp:29527:28"/> others; and what are the Graces of his Spirit but the <hi>Golden Sig<g ref="char:EOLhyphen"/>nalls of his love?</hi> 'tis a Rule in the Schools<g ref="char:punc">▪</g> 
+               <hi>To love another is to will Good to another,</hi> and [<hi>Si amare ſit bona velle alteri, cum majora bona velle ſit magis amare</hi>] if to will Good to another be to love them, then to will greater Good is grea<g ref="char:EOLhyphen"/>ter love; and therefore (ſaith <hi>Zanchius</hi>) we muſt hold this pro<g ref="char:EOLhyphen"/>poſition, where there are Greater and more gifts of God, there God is ſaid to love more, becauſe the gifts of God are the love-tokens of his benevolence or Good will.</p>
+            <p>And as God gives different de<g ref="char:EOLhyphen"/>grees of Grace, ſo he gives diffe<g ref="char:EOLhyphen"/>rent degrees of Glory; he Crowns his greater Graces with greater Glory: For as all that believe in Chriſt are Equally juſtified, but not all Equally Endued with Grace; ſo all believers ſhall be Equally ſaved, but not all Equally
+<pb n="32" facs="tcp:29527:29"/> Glorified; but of this in its right place afterwards.</p>
+            <p>Fourthly, This love of God, <hi>His love of Good will</hi> is always uni<g ref="char:EOLhyphen"/>form and like it ſelfe; it hath no riſings nor fallings, it knows no Ebbings and flowings, this imma<g ref="char:EOLhyphen"/>nent love is a permanent love; incapable of any Intenſion, or Remiſſion, Augmentation, and Diminution, or any Alteration; it is always at full tide: The ſins of the Saints weaken not this love; it loves them always at the ſame Rate; when he caſts them down, this love bears them up; when his anger doth condenſe and thicken like a Cloud upon them, this love, <hi>His love of Good will,</hi> ſits in the upper region of ſerenity looking with the ſame aſpect of kindneſſe ſtill upon them; when he baniſheth them from his preſence, this love goeth with them and keeps them com<g ref="char:EOLhyphen"/>pany;
+<pb n="33" facs="tcp:29527:29"/> when his corrective juſtice gives them up to ſin to humble them, this love ſanctifies their ſins and Falls to them, it turns their ſins to their greater Good, it refines them by their pollutions, it makes their Poyſon a Sanative Cure to them: In a word, in all Gods deſertions of his Saints, this love of Good-will forſakes them not, in reſpect of this love they are never deſerted.</p>
+            <p>Secondly, But of this ſpeciall<note place="margin">Amor Amici<g ref="char:EOLhyphen"/>tiae ſeu Compla<g ref="char:EOLhyphen"/>cenciae.</note> love of God to his People there is another fragrant Sprig, which is called his <hi>Love of Complacency,</hi> or his <hi>Love of Friendſhip;</hi> whereby he takes pleaſure in them as ſuta<g ref="char:EOLhyphen"/>ble to him; is pleaſed with ſome<g ref="char:EOLhyphen"/>thing in them, that is pleaſing to him: Thus he cannot take plea<g ref="char:EOLhyphen"/>ſure, no not in his veſſells of Ele<g ref="char:EOLhyphen"/>ction, not as yet ſanctified, becauſe they have nothing in them as yet pleaſing to him: It is one thing
+<pb n="34" facs="tcp:29527:30"/> for God to wiſh or will the Crea<g ref="char:EOLhyphen"/>ture well, another thing for the Creature to pleaſe and delight his will: God wills <hi>Nothing</hi> but what, is <hi>Pleaſing</hi> to him, yet you muſt not gather thence, that wicked men are therefore Pleaſing to God, becauſe God them well; For <hi>Bene Velle &amp; Bene Fa<g ref="char:EOLhyphen"/>cere.</hi> To will Sinners well, and to doe Sinners Good, is in truth a thing Pleaſing to God (becauſe 'tis agreeable to his mercy) and yet ſinners are not therefore Plea<g ref="char:EOLhyphen"/>ſing to him.</p>
+            <p>By his love of Complacency, he conſiders ſomething in men that doth Pleaſe him: In this ſence <hi>'Paul</hi> ſaith, <hi>Without Faith 'tis</hi>
+               <note place="margin">Heb. 11. 6. Rom. 8. 8.</note> 
+               <hi>impoſſible to Pleaſe God,</hi> or <hi>be Plea<g ref="char:EOLhyphen"/>ſing to him;</hi> and <hi>they that are in the fleſh cannot Pleaſe God.</hi>
+            </p>
+            <p>God by his love of Good will doth good to creatures miſerable, loſt, and no way lovely; This is
+<pb n="35" facs="tcp:29527:30"/> 
+               <hi>amor collationis,</hi> His love whereby he confers beauties on them, which afterwards render him a<g ref="char:EOLhyphen"/>miable in his Eye, and capable to pleaſe him.</p>
+            <p>Gods love of Good will falls upon <hi>Naked Perſons;</hi> Gods love of Complacency falls not upon <hi>Naked Perſons,</hi> but upon Perſons <hi>Cloathed and deckt with Grace:</hi> The object of Gods love of Com<g ref="char:EOLhyphen"/>placency is not [<hi>Bonum Phyſicum &amp; Entitatirum</hi>] The <hi>Entitative Good</hi> or <hi>Being</hi> of the Creature, but [<hi>Bonum ethicum &amp; morale] The morall Being or Gracious Goodneſſe</hi> of the creature: Thus as there is in men more or leſſe which plea<g ref="char:EOLhyphen"/>ſeth God according to the degrees and Fruits of Grace in them, ſo he loves them more or leſſe, with his love of Friendſhip and Com<g ref="char:EOLhyphen"/>placency.</p>
+            <p>Firſt, This love of God follows the work of Grace in the Crea<g ref="char:EOLhyphen"/>ture:
+<pb n="36" facs="tcp:29527:31"/> They muſt have Grace ſtampt upon them, before he can take Complacency or delight in them, <hi>Such as are upright in their</hi>
+               <note place="margin">Prov. 11. 20.</note> 
+               <hi>way are his delight:</hi> In Reſpect of his love of Good will, 'tis ſaid, <hi>We love him becauſe he firſt loved us:</hi>
+               <note place="margin">1 John 4. 19.</note> In reſpect of his love of delight, 'tis ſaid, <hi>He that loveth me ſhall be</hi>
+               <note place="margin">John 14. 21.</note> 
+               <hi>loved of my Father.</hi> In reſpect of his love of Good will, 'tis ſaid, <hi>God ſo loved the world that he gave his onely begotten Son, that whoſoever</hi>
+               <note place="margin">John 3. 16.</note> 
+               <hi>believes in him ſhall not periſh but have Everlaſting life;</hi> In reſpect of his love of Complacency, 'tis ſaid, <hi>The Father himſelfe loveth you be<g ref="char:EOLhyphen"/>cauſe ye have loved me, and have be<g ref="char:EOLhyphen"/>lieved</hi>
+               <note place="margin">John 16. 27.</note> 
+               <hi>that I came out from God.</hi>
+            </p>
+            <p>His love of good will is his <hi>pre<g ref="char:EOLhyphen"/>venting</hi>
+               <note place="margin">Amor praeveni<g ref="char:EOLhyphen"/>ens.</note> love, whereby he loved us, before we deſired it.</p>
+            <p>His love of friendſhip is his<note place="margin">Amor Conſe<g ref="char:EOLhyphen"/>quens.</note> 
+               <hi>conſequent</hi> love, which follows not onely his former love to us, but
+<pb n="37" facs="tcp:29527:31"/> alſo our love to him: and there<g ref="char:EOLhyphen"/>fore ſaith Chriſt, <hi>He that loveth me ſhall be loved of my Father, and I will love him:</hi> as the Father and the Son by their firſt love provoke ours, ſo by their ſecond love they reward ours; Gods love of good will makes men love God; by his love of good will he makes them righteous; with his love of Complacency he loves them be<g ref="char:EOLhyphen"/>ing righteous; in reſpect of the love <hi>of his Good will</hi> they are the <hi>effects</hi> of his love; in reſpect of his love of <hi>Complacency</hi> they are the <hi>objects</hi> of his love; <hi>If any man</hi> (ſaith Chriſt) <hi>love me, he ſhall be loved of my Father.</hi> But <hi>How can any man by nature</hi> love Chriſt, or love God? <hi>Therefore I ſay,</hi> Gods love of good will [<hi>facit homines Dei amantes</hi>] makes men lovers of him.</p>
+            <p>His love of good will is the fountain and ſpring of our love
+<pb n="38" facs="tcp:29527:32"/> to him; it begets our love to him, as the image of his love to us: <hi>To Love God, is the gift of God,</hi> our active love whereby we love him, and our paſſive love whereby we <hi>are beloved of him,</hi> are both the gifts of God, and the gifts of his free and firſt love.</p>
+            <p>Yet there is a love of God whereby he loves us not, till we love him; <hi>He cannot love thee with delight till thou art Lovely:</hi> Gods love of good will makes the ob<g ref="char:EOLhyphen"/>ject, his love of Friendſhip doth preſuppoſe the object; he cannot love thee as his Friend till thou art his Friend; <hi>There is no Friend<g ref="char:EOLhyphen"/>ſhip without mutuall love;</hi> he can<g ref="char:EOLhyphen"/>not love thee as his child, till thou art his child; he doth not love thee as thy Huſband, till thou art his Spouſe: I ſay, he cannot love as an Huſband, till he is thy Huſband; and he is not thy Huſband, till thou take him
+<pb n="39" facs="tcp:29527:32"/> to be thy Huſband. But doth not Gods love begin to me? Doth not he love ſinners firſt? and make ſuit to them as a lover, be<g ref="char:EOLhyphen"/>fore they love him? yes, <hi>with the love of Good will:</hi> He bears good will to thee, and therefore he breaks his mind to thee in the Gnſpell, and wooes thee (it may be long) before thou loveſt him; but he doth not love thee with the <hi>love of Eſpouſalls,</hi> till the Nup<g ref="char:EOLhyphen"/>tiall day, till thou canſt find in thy heart to have him, and the mar<g ref="char:EOLhyphen"/>riage-knot be tyed up, and thou take him for thine Huſband: <hi>He cannot love thee with this Relation<g ref="char:EOLhyphen"/>love, till thou come under this Rela<g ref="char:EOLhyphen"/>tion-bond.</hi>
+            </p>
+            <p>Secondly, This love of God, his <hi>Love of Complacency</hi> is a <hi>neceſſa<g ref="char:EOLhyphen"/>ry love:</hi> His love of Good will is free; his love of Complacency is neceſſary: ah dear God! he loves us freely, that he may love us ne<g ref="char:EOLhyphen"/>ceſſarily:
+<pb n="40" facs="tcp:29527:33"/> As 'twas free to God (at firſt) to make man, but if he would make him, he muſt of ne<g ref="char:EOLhyphen"/>ceſſity make him Righteous, and love him ſo made; ſo when man was fallen, 'twas free to God whe<g ref="char:EOLhyphen"/>ther he would ſhew him any good will or no, whether he would re<g ref="char:EOLhyphen"/>paire his Image again in him or no, but if it be his Pleaſure to Re<g ref="char:EOLhyphen"/>ſtore him, he cannot but love his own deſign; if it be his pleaſure to ſet up a new Creation, he can<g ref="char:EOLhyphen"/>not but love his new Creation. His love of Good will is (as I may ſay) his <hi>Rectorall love,</hi> his love of <hi>Friendſhip</hi> is his <hi>Foederall love:</hi> his love of <hi>Good will</hi> is his love of <hi>Do<g ref="char:EOLhyphen"/>minion,</hi> whereby he loves <hi>whom</hi> and <hi>where</hi> he pleaſes to love; his love of <hi>Friendſhip</hi> is his love of <hi>Communion,</hi> whereby he is enga<g ref="char:EOLhyphen"/>ged by Covenant to love his Friends, to love thoſe that love him.</p>
+            <pb n="41" facs="tcp:29527:33"/>
+            <p>Thirdly, This love of God, his love of Complacency, admits varieties of weather, and looks with ſeverall faces upon his Saints: It hath its Spring and its Fall, it hath its ſummer and hath its winter, it riſeth as our obedi<g ref="char:EOLhyphen"/>ence riſeth, and falls as our obe<g ref="char:EOLhyphen"/>dience falleth; it grows hot and cold according to the viciſſitude of his peoples tempers, <hi>as they are hot or cold in their affections:</hi> ac<g ref="char:EOLhyphen"/>cording to his love of Com<g ref="char:EOLhyphen"/>placency and Friendſhip he is ſaid ſometimes to ſmile, and ſometimes to frown up<g ref="char:EOLhyphen"/>on us: as long as <hi>David</hi> walkt cloſe with God, his love did ſhine upon him, but when <hi>David</hi> ſinned in the matter of <hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi> his love of Complacen<g ref="char:EOLhyphen"/>cy did retire, and draw in its beams from him: In reſpect of this love, God is ſaid to forſake and deſert his Children, his De<g ref="char:EOLhyphen"/>ſertion
+<pb n="42" facs="tcp:29527:34"/> of them is the departure of this his love in ſome degree from them: as the Phyloſophers ſay, There is a <hi>lux,</hi> and <hi>lumen,</hi> light inherent in the Sun, and light fluent from the Sun, that is ever Perfect and Permanent; but this may ſuffer changes, and be obſcu<g ref="char:EOLhyphen"/>red: ſo Gods love of Friend<g ref="char:EOLhyphen"/>ſhip, our ſins may leſſen it, and our recoveries make it riſe brigh<g ref="char:EOLhyphen"/>ter on us: Look then to your walkings.</p>
+            <p>Laſtly, This love of God, his love of Complacency and Friend<g ref="char:EOLhyphen"/>ſhip, is unequall to his Saints; its higher to ſome, its lower to o<g ref="char:EOLhyphen"/>thers; its more to ſome, and leſſer to others, according to the mea<g ref="char:EOLhyphen"/>ſure and proportion of their Gra<g ref="char:EOLhyphen"/>ces: Some are <hi>Greatly Beloved,</hi> and ſome are <hi>Not ſo Greatly Beloved</hi> with this love; as the Sun ſhines hotter upon ſome Climates, than it doth upon others; and the
+<pb n="43" facs="tcp:29527:34"/> water overflows ſome Paſtures more than others: <hi>The Sweeter Roſe a Saint is, the more delici<g ref="char:EOLhyphen"/>ouſly God wears him in his Boſome;</hi> He doth Enlarge his graces in them, and then En<g ref="char:EOLhyphen"/>large his heart towards them. To conclude, <hi>John</hi> the Evangeliſt was One whom Chriſt loved marvel<g ref="char:EOLhyphen"/>louſly, he was the Delight of Je<g ref="char:EOLhyphen"/>ſus Chriſt, his <hi>Benjamin,</hi> therefore he is called, the Diſciple whom Chriſt loved: and as Chriſt loved him above others, ſo he loved Chriſt more than others did; for he ſtood by the Croſſe when all the other left him, and fled away for fear.</p>
+            <p>
+               <hi>And now having given light of Explanation</hi> to the poynt, I am next to make proof of it.</p>
+            <p>Firſt, In <hi>Iſa.</hi> 41. 8. God ſpeaks with high and honourable Re<g ref="char:EOLhyphen"/>ſpects of <hi>Abraham, Abraham my Friend,</hi> a huge Favour and Prince<g ref="char:EOLhyphen"/>ly
+<pb n="44" facs="tcp:29527:35"/> title from Gods mouth: <hi>But are not all the Saints the friends of God?</hi> yes, but <hi>Abraham was his friend</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by <hi>way of eminency,</hi> God admitted him into nearer Com<g ref="char:EOLhyphen"/>munion, he lay deeper in Gods boſome than others did: All the holy Saints of God are his friends and dear ones, but <hi>Abraham</hi> was (as it were) the crown and cream of all his friends, and therefore ſaith he, <hi>Abraham my friend.</hi>
+            </p>
+            <p>'Tis obſerved by ſome, that a<g ref="char:EOLhyphen"/>mong the <hi>Jewes</hi> their King <hi>had one</hi> whom he loved and converſed with above the reſt, and him they called <hi>the Kings friend:</hi> The King had more friends than one, all that<note place="margin">1 Kings 16. 11.</note> were of his Council, and his Offi<g ref="char:EOLhyphen"/>cers were called his friends, be<g ref="char:EOLhyphen"/>cauſe he committed his great af<g ref="char:EOLhyphen"/>faires to their hands, &amp; ſteared all his deſigns by their advice, yet a<g ref="char:EOLhyphen"/>mong them all the King had ſome one Courtier called the <hi>Kings
+<pb n="45" facs="tcp:29527:35"/> friend by a ſpecialty:</hi> as <hi>Huſhai</hi> is cal<g ref="char:EOLhyphen"/>led<note place="margin">2 Sam. 15. 37.</note> 
+               <hi>Davids friend,</hi> &amp; 'tis ſaid of <hi>So<g ref="char:EOLhyphen"/>lomon,</hi> that <hi>Zabud</hi> the ſon of <hi>Nathan</hi> was his Principall Officer, and <hi>the Kings Friend,</hi> that is, his ſingular<note place="margin">1 Kings 4. 5.</note> and darling friend (that had the quinteſſence of the Kings friend<g ref="char:EOLhyphen"/>ſhip) the Cabinet of his moſt re<g ref="char:EOLhyphen"/>tired communications: and in this ſence is <hi>Abraham</hi> ſtiled the friend of God; God carried his heart upon his lips to <hi>Abraham, Shall I hide from Abraham that thing</hi>
+               <note place="margin">Gen. 18. 17.</note> 
+               <hi>which I doe? Abraham</hi> was <hi>Of Gods Privy Councell;</hi> all w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re not, and all are not: ſurely then God bears more Reſpects to ſome Saints than he doth to others.</p>
+            <p>Secondly, God aſſociates him<g ref="char:EOLhyphen"/>ſelfe more familiarly with ſome Saints than with others, which is a ſigne of more entire love: Thus he did with <hi>Moſes, And there aroſe</hi>
+               <note place="margin">Deut. 34. 10.</note> 
+               <hi>not a Prophet ſince in Iſrael like unto Moſes, whom the Lord knew face to
+<pb n="46" facs="tcp:29527:36"/> face:</hi> And when <hi>Aaron</hi> and <hi>Miri<g ref="char:EOLhyphen"/>am</hi> ſwelling with Envy, burſt out into mutiny againſt <hi>Moſes,</hi> ſee how God doth interpoſe for him, and highly magnifie him, <hi>And he ſaid, hear now my words, if there be a</hi>
+               <note place="margin">Numb. 12. 6, 7, 8.</note> 
+               <hi>Prophet among you, I the Lord will make my ſelfe known unto him in a Viſion, and will ſpeak unto him in a Dream: My ſervant Moſes is not ſo, who is faithfull in all mine houſe; with him will I ſpeak mouth to mouth, even apparently, and not in dark ſpeeches, and the ſimilitude of the Lord ſhall he behold: wherefore then were ye not afraid to ſpeak againſt my ſervant Moſes?</hi> They eclipſe and diminiſh <hi>Moſes,</hi> God advanceth him: They equall themſelves to <hi>Moſes,</hi> God prefers him to them: Their Plea was that God had ſpo<g ref="char:EOLhyphen"/>ken by them, as well as by <hi>Moſes</hi> Gods Reply is that he had in a more affectionate and ſociable correſpondence ſpoken to <hi>Moſes</hi>
+               <pb n="47" facs="tcp:29527:36"/> than to them, <hi>with him will I ſpeak mouth to mouth:</hi> God ſpake to the beſt of them, but either in a Dream, or Viſion, but to <hi>Moſes</hi> he ſpake with more lively Repreſen<g ref="char:EOLhyphen"/>tation, <hi>The ſimilitude of the Lord ſhall he behold,</hi> God would have them know, that he puts a great difference between them and <hi>Mo<g ref="char:EOLhyphen"/>ſes;</hi> he profeſſeth that he hath, and will ſhew more reſpects to <hi>Moſes,</hi> than to them.</p>
+            <p>
+               <hi>Chytraeus</hi> ſaith, 'tis very likely and probable, that the Son of God did with the ſame face, and form of humane nature which he af<g ref="char:EOLhyphen"/>terward aſſumed, ſhew himſelfe friendly and familiarly to <hi>Moſes,</hi> and our firſt Parents: and to that ſpeech, wherein 'twas ſaid, that <hi>there aroſe not a Prophet ſince in Iſra<g ref="char:EOLhyphen"/>el</hi>
+               <note place="margin">Deut. 34. 10.</note> 
+               <hi>like unto Moſes,</hi> ſome obſerve that <hi>Moſes</hi> ſurpaſſed all the other Prophets, not onely in ſublimity of Prophecies, but alſo in Excel<g ref="char:EOLhyphen"/>lency
+<pb n="48" facs="tcp:29527:37"/> and number of Miracles; for <hi>Moſes</hi> within one age onely, wrought ſeventy ſix Miracles, when the reſt from the beginning of the world quite down to the ruine of the firſt Temple, wrought onely ſeventy four, as <hi>Manaſſeh Ben Iſrael</hi> reckons them: beſides, <hi>Moſes</hi> (they ſay) had one hundred and ſeventy three conferences with God, which none of the Pro<g ref="char:EOLhyphen"/>phets had.</p>
+            <p>Thirdly, <hi>God Preferres</hi> ſome Saints above others: <hi>Though theſe three men, Noah, Daniel, and Job,</hi>
+               <note place="margin">Ezek. 14. 14.</note> 
+               <hi>were in it, they ſhould deliver but their own ſouls by their righteouſneſſe, ſaith the Lord God:</hi> and again, <hi>Though Moſes &amp; Samuel ſtood before</hi>
+               <note place="margin">Jer. 15. 1.</note> 
+               <hi>me, yet my mind could not be toward this People.</hi> Now the Lord doth inſtance in theſe, as thoſe that could doe more with him, than any others, and upon whom his heart was ſet upon above others;
+<pb n="49" facs="tcp:29527:37"/> as if he ſhould ſay, though <hi>my dea<g ref="char:EOLhyphen"/>reſt friends that ſit at the ſtern of my heart,</hi> and could move me which way they pleaſe, ſhould come and Plead, yet I would not yeeld: as if God had ſaid, if any could perſwade me, they were the men that ſhould doe it.</p>
+            <p>Fourthly, <hi>God doth Glory</hi> in ſome Saints and ſervants, more than others: <hi>Haſt thou conſidered my ſervant Job, that there is none</hi>
+               <note place="margin">Job 1. 8.</note> 
+               <hi>like him in the Earth, a perfect and an upright man, one that feareth God and eſcheweth evill?</hi>
+            </p>
+            <p n="1">1. <hi>Haſt thou conſidered my ſer<g ref="char:EOLhyphen"/>vant Job?</hi> it is (ſaith one) as if you ſhould ſay to a man come down from the City into the Country, were you at Court? did you ſee the King? becauſe he is the moſt Eminent and conſidera<g ref="char:EOLhyphen"/>ble Perſon; ſo doth God ſpeak here of <hi>Job.</hi>
+            </p>
+            <p n="2">2. Again, <hi>My Servant Job:</hi>
+               <pb n="50" facs="tcp:29527:38"/> when God ſaith, <hi>My Servant,</hi> he doth (as it were) glory in his <hi>Ser<g ref="char:EOLhyphen"/>vant,</hi> God ſpeaks of him, as a man doth of that which he glorieth in: As the Saints glory in God, when they ſay, My God, and My Chriſt, this is a kind of glorying and triumphing in God; ſo this Expreſſion of God carryeth ſuch a ſence in it, <hi>My Servant Job,</hi> as if it were his honour to have ſuch a ſervant, one that I am proud of.</p>
+            <p n="3">3. But God hath not done yet glorying in <hi>Job,</hi> he adds another grain, <hi>That ther's none like him in the Earth:</hi> God ſpeaks not this high Praiſe of <hi>Job</hi> in Reference to the wicked, as if none of them were like him, thats too low, but in Reference to all the Saints, that were then upon the Earth, among thoſe there was not ſuch a man as <hi>Job,</hi> none of them all like him, they were not equall to him in this or that or the other Grace,
+<pb n="51" facs="tcp:29527:38"/> 
+               <hi>Job</hi> was a man above them all, thus God glorieth in him: I ſay, God doth glory in ſome Saints more than in others.</p>
+            <p>Fifthly, <hi>God ſhews</hi> ſome Saints <hi>Extraordinary</hi> favours: He Ex<g ref="char:EOLhyphen"/>empts them from the common condition of all the Saints, they are Exceptions from the generall rule: and ſurely, Extraordinary favours doe not flow from ordi<g ref="char:EOLhyphen"/>nary love: The Apoſtle ſaith, that '<hi>Tis Appointed unto men once to die:</hi> but <hi>Enoch</hi> muſt not die, he muſt not go the common rode of man kind, the Text ſaith, <hi>He was tranſlated that he ſhould not ſee death,</hi> he ſoared up to Heaven (as if <hi>Adam</hi> had been taken out of <hi>Para<g ref="char:EOLhyphen"/>diſe</hi> before he ſinned) upon the wing of immortality: ſo, <hi>Elijah</hi> muſt receive an unparalel'd Ho<g ref="char:EOLhyphen"/>nour, die like other men he muſt not, but God ſends for him in ſtate, he Rides in his Glittering
+<pb n="52" facs="tcp:29527:39"/> Coach drawn by Angells to the Gates of Glory: <hi>Surely theſe were Gods Greatly beloved.</hi>
+            </p>
+            <p>Sixthly, God would have us love thoſe Saints moſt, to whom he hath given moſt Grace: and when we love thoſe more that are Gracious, we are the more like to God.</p>
+            <p>Seventhly, God, for ought I know (though ſome learned Heads ſpeak the contrary) gives ſome Saints more Glory in Hea<g ref="char:EOLhyphen"/>ven than he gives to others.</p>
+            <p>Their <hi>objective beatitude</hi> will be<note place="margin">Beatitudo. 1. Objectiva.</note> one and the ſame, which is <hi>God</hi> himſelfe, <hi>One God</hi> among them all.</p>
+            <p>Their <hi>Receptive Beatitude,</hi> that is, their Participation of God will<note place="margin">2. <hi>Formalis,</hi> as the School<g ref="char:EOLhyphen"/>men ſpeak.</note> be Equall and the ſame too in <hi>the Eſſentialls</hi> of it, the Beatificall vi<g ref="char:EOLhyphen"/>ſion ſhall be communicated to them all, they ſhall all have the fruition and poſſeſſion of God,
+<pb n="53" facs="tcp:29527:39"/> 
+               <hi>but they ſhall not all drink the ſame meaſures:</hi> Or, if you will, more Plainly thus, Life eternall in the <hi>ſubſtance of it,</hi> is one and the ſame, equally given to all that are ſa<g ref="char:EOLhyphen"/>ved: as by Chriſts Righteouſ<g ref="char:EOLhyphen"/>neſſe we are Equally juſtified, ſo by his merits we are equally ſaved, and equally made partakers of the Inheritance: but in the <hi>Degrees</hi> of <hi>Glory,</hi> ſo it is unequally diſtri<g ref="char:EOLhyphen"/>buted, to ſome more, to ſome leſſe: Different degrees of glory anſwe<g ref="char:EOLhyphen"/>ring the Different degrees of grace (beſtowed upon his Saints) in this life, and proportioned to the different degrees of labor and ſervice they have gone through for him: and this is that which <hi>Ambroſe</hi> ſaith, God gives to all that are ſaved <hi>aequalem mercedem vitae, non gloriae,</hi> an equall reward of life, not of glory.</p>
+            <p n="1">1. And this appears by that Expreſſion, in 1 <hi>Cor. 3. 8. Now he
+<pb n="54" facs="tcp:29527:40"/> that planteth and he that watereth are One, and every man ſhall receive his own reward according to his own labour:</hi> a different reward accor<g ref="char:EOLhyphen"/>ding to their different labour: he ſpeaks of the Faithfull Servants of Jeſus Chriſt, he names himſelfe and <hi>Apollo</hi> in particular, himſelfe as Planting, and <hi>Apollo</hi> as Wate<g ref="char:EOLhyphen"/>ring, and each of them ſhall re<g ref="char:EOLhyphen"/>ceive <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their proper reward acc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rding to their proper labour.</p>
+            <p n="2">2. Again in 2 <hi>Cor. 9. 6. Paul</hi> tells us, <hi>He which ſoweth ſparingly ſhall reap ſparingly, and he that ſoweth bountifully ſhall reap bountifully:</hi> Here is a ſparing reward to a ſpa<g ref="char:EOLhyphen"/>ring liberality, and a bounteous reward to a bounteous liberality: The Harveſt anſwers the meaſure of ſeed, he that ſoweth but little, ſhall reap but little; and he that ſoweth much, ſhall reap more: and this Harveſt <hi>Paul</hi> in another
+<pb n="55" facs="tcp:29527:40"/> place refers to the life to come, <hi>Gal.</hi> 6. 6, 7, 8. The preſent time is the time of ſowing, the future time is the time of reaping, the Harveſt is the End of the<note place="margin">Mat. 13. 39.</note> World.</p>
+            <p n="3">3. In 1 <hi>Cor.</hi> 3. 11, 15. There are Teachers that build Gold, Silver, Precious ſtones upon the Foun<g ref="char:EOLhyphen"/>dation; and there are other Tea<g ref="char:EOLhyphen"/>chers that build wood, hay and ſtubble upon the Foundation: The work or Doctrine of the One will abide the fire (ſaith the Apoſtle, <hi>v.</hi> 14.) and he ſhall re<g ref="char:EOLhyphen"/>ceive a Reward; but thoſe Tea<g ref="char:EOLhyphen"/>chers that lay wood, hay, ſtubble, upon the Foundation, yet (if their Errours be not damnable) they ſhall be ſaved (ſaith the Text) yet their work ſhall be burnt, and they <hi>ſhall ſuffer loſſe,</hi> that is, they ſhall be deprived of much of that reward they ſhould have had, and which the other
+<pb n="56" facs="tcp:29527:41"/> ſhall have who build gold, ſilver, and precious ſtones upon the foundation, Jeſus Chriſt.</p>
+            <p n="4">4. Laſtly, I would fain under<g ref="char:EOLhyphen"/>ſtand that Text in <hi>Luke</hi> 16. 22. where 'tis ſaid, that <hi>Lazarus</hi> was carried up by the Angells into <hi>Abrahams boſome:</hi> The Expreſſi<g ref="char:EOLhyphen"/>on is taken from the cuſtome of the <hi>Jewes</hi> at their Feaſts, as <hi>John</hi> at ſupper lay in Chriſts boſome: Therefore <hi>Abraham</hi> ſits above <hi>Lazarus</hi> at the Royall Feaſt of Glory, <hi>Abraham</hi> hath a Diguiori<g ref="char:EOLhyphen"/>ty there beyond <hi>Lazarus.</hi>
+            </p>
+            <p>I muſt now give you the Rea<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. And firſt, they that have more Grace, are more like him than others; They bear his Image <hi>in a Greater Print:</hi> Parents<g ref="char:punc">▪</g> though they love all their Chil<g ref="char:EOLhyphen"/>dren well, yet they love them moſt, that reſemble them moſt, the Parent loves that Child moſt,
+<pb n="57" facs="tcp:29527:41"/> that hath moſt of the Parent In it: as God is the Father, ſo he is the <hi>Idaea</hi> of the Saints: God is <hi>the Idaea</hi> of the Saints, and the Saints are his <hi>Reflections:</hi> I conceive therefore that God cannot but love them moſt, that have moſt of himſelf in them: He doth by an holy Neceſſity of nature love them moſt, that have moſt Grace: For God is holy not by will, but by Nature: His will is not ante<g ref="char:EOLhyphen"/>cedent to his holineſſe, 'tis natu<g ref="char:EOLhyphen"/>rall to him to hate ſin, and 'tis na<g ref="char:EOLhyphen"/>turall to him to love Grace, and therefore to love more grace with more love.</p>
+            <p>
+               <hi>Reaſ.</hi> 2. Some of the Saints love God more than others doe: as ſome Herbes are hot in the fourth degree, and other<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hot but in the ſecond or third degree; ſuch are the graduall inequalities of love in the ſeverall Saints of God: ſome are <hi>Warme</hi> in love,
+<pb n="58" facs="tcp:29527:42"/> others are <hi>Hot</hi> in love to him: All love him <hi>unfaignedly,</hi> ſome love him <hi>Flamingly:</hi> All are ſerious in love, but ſome are ſcorcht with love to him; as <hi>David, My zeale</hi> (ſaith he) <hi>hath conſumed me, be<g ref="char:EOLhyphen"/>cauſe mine enemies have forgotten thy</hi>
+               <note place="margin">Pſal. 119. 139.</note> 
+               <hi>word:</hi> His love to God was ſo Extream <hi>Hot,</hi> that it did even Ex<g ref="char:EOLhyphen"/>hauſt and dry up his Moyſture; <hi>My zeale hath conſumed me:</hi> Holy affections are able to work upon the body no leſſe than naturall affections; <hi>Tell him that I am ſick of love:</hi> Now <hi>Love is the curious and quaint Grace of the Soule: The Queen Grace of the Soule,</hi> that tran<g ref="char:EOLhyphen"/>ſports God himſelfe (as it were) into amorous Paſſions; when God doth but hear once that a ſoule is fallen in love with him, his heart is wounded preſently, and bleeds Enamoured ſtreams of deſire after her, <hi>I love them that</hi>
+               <note place="margin">Prov. 8. 17.</note> 
+               <hi>love me: Love delights and dwells
+<pb n="59" facs="tcp:29527:42"/> with love;</hi> and they that love moſt, in them God dwells moſt; they have moſt of his company, and are Raviſhed moſt with the Heaven of his preſence.</p>
+            <p>
+               <hi>Reaſ.</hi> 3. Some of the Sains ſeek Gods Glory with moſt ardent and <hi>Hyperbolicall ſtrains</hi> of zeale above others, the Reſt of the Saints cannot come near them: In <hi>Rom.</hi> 9. 3. There ſaith <hi>Paul, I could wiſh that my ſelfe were accur<g ref="char:EOLhyphen"/>ſed from Chriſt, for my Brethren, my Kinſmen according to the Fleſh: Pauls</hi> deep Deſire of Gods Glory, drowns the deſire of his own Fe<g ref="char:EOLhyphen"/>licity: This Text doth crucifie the moſt learned Interpreters, they know not how to under<g ref="char:EOLhyphen"/>ſtand it; I ſhall onely take up a word of <hi>Chryſostome</hi> concerning it, he ſaith, <hi>We are ſo far from Pauls love that therefore we cannot underſtand his ſaying, we reach not Pauls meaning becauſe we have not
+<pb n="60" facs="tcp:29527:43"/> his Affection:</hi> and <hi>Origen</hi> ſaith, <hi>What wonder, ſeeing the Lord was made a Curſe for his ſervants, that his ſervant would become accurſed for his brethren?</hi> Now ſurely, thoſe that ſo highly prize Gods glory above others, are beloved above others.</p>
+            <p>
+               <hi>And now we are arrived at the Application.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Oh! what ſhall I ſay to ſinners? or what will ſinners ſay to this Poynt? I tremble, when I think of them: yet I can tell you what they will ſay; their judgement is, at leaſt their report and language is, that God loves them as well as the beſt: Poor ſoules, how are ye miſtaken! for,</p>
+            <p>Firſt, Sinners are in the dark, and therefore cannot ſee who are their Friends, or who are their Foes: They cannot ſee whether God loves them, or God hates
+<pb n="61" facs="tcp:29527:43"/> them; and becauſe they paſſe ſafely, they think that all are Friends, God is their Friend, and Chriſt is their Friend, they think that Gods naked Patience is his love, and that Gods meer long<g ref="char:EOLhyphen"/>ſuffering is his dear love; they cannot diſtinguiſh, they are in the Dark: A man cannot read letters or manuſcripts in the dark; now ſinners are in the dark, how then can you read Gods ſpeciall love to you? <hi>Gods ſpeciall love is written in a ſmall print, in a Spirituall Cha<g ref="char:EOLhyphen"/>racter; you cannot read the prints of Spirituall love with a carnall Eye:</hi> you think, God loves you, becauſe you thrive in the world; you think, he loves you, becauſe he doth not ſmite you: Alas! alas! you are in the dark; For oh! what a difference is there be<g ref="char:EOLhyphen"/>tween the wrath of God and the wrath of man? for men puniſh when they
+<pb n="62" facs="tcp:29527:44"/> are Angry, but God forbears to puniſh when he is angry: God is more diſpleaſed when he diſ<g ref="char:EOLhyphen"/>ſembleth a fault, than when he doth preſently puniſh; <hi>There is no Greater puniſhment, than not to be puniſhed, nor yet a ſharper Scourge than not to be ſcourged:</hi> Sirs! God is very Angry when he defers puniſhment unto Hell.</p>
+            <p>Secondly, Again, Sinners An<g ref="char:EOLhyphen"/>ticipate: It is the boldneſſe and preſumption of ſinners, to take unto themſelves divine Privi<g ref="char:EOLhyphen"/>ledges, before they ſhould: They ſay, God loves us, though they go on in their ſins; whereas they cannot know that God loves them, till they come out of their ſins; <hi>they deceive themſelves by An<g ref="char:EOLhyphen"/>ticipation:</hi> Oh! ſaith a ſinner, Chriſt dyed for me, though he be not yet converted; whereas he cannot poſſibly know that Chriſt dyed for him till he be converted:
+<pb n="63" facs="tcp:29527:44"/> Thus he reſts in his Condition, and damns his ſoule, becauſe <hi>he Anticipates</hi> Gods love; he takes it for his own before his time.</p>
+            <p>Thirdly, Love aſſimilates the object: divine Love begets after its own likeneſſe; whom God loves, he ſtamps his image and qualities upon them: <hi>As many as</hi>
+               <note place="margin">Rev 3. 19.</note> 
+               <hi>I love I rebuke and chaſten,</hi> why ſo? to refine them from their droſſe, and make them more ſplendid and bright, like himſelfe: <hi>Yee</hi>
+               <note place="margin">Eph. 5. 8.</note> 
+               <hi>were darkneſſe, but now ye are light</hi>
+               <note place="margin">1 John 1. 5.</note> 
+               <hi>in the Lord;</hi> why ſo? <hi>becauſe God is light,</hi> and therefore he takes away the contrariety, that they may be like to him: It is the Na<g ref="char:EOLhyphen"/>ture of Agents to make their paſ<g ref="char:EOLhyphen"/>ſives like themſelves; Iron is a dark and opacous body, but put it into the fire, and the fire will make Iron ſhine, like it ſelfe; Sinner, God doth ſo, if God love thee, he'll Gild thee with his own
+<pb n="64" facs="tcp:29527:45"/> Rays upon thee, and make thee ſhine like himſelfe; The coldeſt water, fire makes it warm like its ſelfe; <hi>God acts thus;</hi> where he loves, he makes the worſt ſinner in the world like himſelfe; <hi>Ami<g ref="char:EOLhyphen"/>citia pares aut recipit aut facit.</hi>
+            </p>
+            <p>Fourthly, Again, Gods love runs paralell with his word; his love is of the ſame dimenſions with his word; whom his word condemns, his love doth not ac<g ref="char:EOLhyphen"/>quit; whom his word Excludes, his love will not admit; if his word make thee not a paſſe to Heaven, his love will give thee no allowance: Now ſinner! the word is againſt thee, <hi>Be not decei<g ref="char:EOLhyphen"/>ved,</hi> (ſaith the word) <hi>Know ye not that the unrighteous ſhall not inherit the kingdome of God?</hi>
+            </p>
+            <p>
+               <hi>Sinners! let me then</hi> turn this Uſe into <hi>Exhortation:</hi> Doth God love his Saints? Sinner, let this principle make thee long to be a Saint.</p>
+            <pb n="65" facs="tcp:29527:45"/>
+            <p>Firſt, Mourn over all that time, wherein thou haſt lived out of the Beams of Gods love; <hi>Thou haſt lived in a Cold Climate all this while:</hi> ſome of you are warm with wealth, and warm with riches, but you have lived all this while out of Gods bleſſing in the warm Sun; I ſay, <hi>Though you have lived all this while in the warm Sun, yet you have lived all this while out of Gods Bleſſing:</hi> Doe ye think, God can love you in your drunkenneſſe, or love you in your oaths, and in your impuri<g ref="char:EOLhyphen"/>ties? is it poſſible that God who is light, ſhould take pleaſure in works of darkneſſe? No, no, <hi>Eaſt and Weſt are inconſiſtent, Antipa<g ref="char:EOLhyphen"/>thies will not incorporate;</hi> as ſoon may light and darkneſſe be Eſpous'd together, and midnight be married to the noon day, as God Embrace a wicked ſoule in the Nuptiall bed of love: Away,
+<pb n="66" facs="tcp:29527:46"/> away, then from under the dark ſide of this prodigious Cloud. <hi>Vita non eſt niſi iis, quibus lux eſt,</hi> God is life to none, but them to whom he is light: <hi>'Tis likeneſſe that breeds liking, he cannot like you till he ſees his likeneſſe on you:</hi> God and ſinners are oppoſite, God is Good, Sin is Evill, God and Sin Good and Evill are <hi>Summa Oppo<g ref="char:EOLhyphen"/>ſita,</hi> the Great and Grand Oppo<g ref="char:EOLhyphen"/>nents of the world; God is the <hi>chiefeſt good,</hi> Sin is the <hi>chiefeſt Evill,</hi> now that oppoſits may be made friends, there muſt be a change ſomewhere, either on Gods part, or on our part; <hi>God cannot change,</hi> with him there is <hi>no variableneſſe nor ſhadow of change, God will not change,</hi> there is no reaſon he ſhould, he is holineſſe and goodnes it ſelf, his perfection ſtands in an indiviſible point; he muſt not alter a whit, and therefore ſinners, you muſt be
+<pb n="67" facs="tcp:29527:46"/> changed, or you muſt be dam<g ref="char:EOLhyphen"/>ned; of neceſſity there muſt be a change, and the change muſt be on our part: as we ſee in an In<g ref="char:EOLhyphen"/>ſtrument, thoſe ſtrings that are out of tune, are brought to them that are in; ſo it is we, that muſt change and alter, and not God: Go then, and mourn over all that time, wherein you have lived out of the Beams of Gods love.</p>
+            <p>Secondly, Let this make you long to be Saints; if you would be the Saints of God, you ſhould be the friends of God; if you would un love your ſins, God would love you too: You that are Great ſinners, come and be Great Saints, and you alſo ſhall be <hi>Greatly Beloved.</hi>
+            </p>
+            <p>There are two things that would make you Saints.</p>
+            <p n="1">1. <hi>Believe</hi> the Tranſcendent Glories and Raviſhing Joyes to come.</p>
+            <p n="2">
+               <pb n="68" facs="tcp:29527:47"/>2. <hi>Make no queſtion</hi> but they may be yours.</p>
+            <p>Firſt, <hi>Believe</hi> the Tranſcendent Glories and ſhining Joyes to come, laid up for the Saints of God; I ſay, believe them, and your hearts cannot but be taken with them; It is impoſſible that any man who believes thoſe infi<g ref="char:EOLhyphen"/>nite and un-imaginable joyes, ſhould not deſire them, he cannot but uſe the meanes to obtain them: It is not directly in the Nature of man to neglect ſo great a Good, if he throughly believes the Greatneſſe and Goodneſſe of it; he cannot eaſily chooſe any thing elſe, who believes the worth of it: I ſay, Faith is a be<g ref="char:EOLhyphen"/>liefe of things that are infinite, things ſo great, that if they be ſo true as great, no man that hath his reaſon, and can diſcourſe, that can think, and chooſe, that can deſire and work towards an
+<pb n="69" facs="tcp:29527:47"/> End, can poſſibly neglect them; ſuch infinite joyes would make you leave your finite joys; ſuch unlimited pleaſures would make you ſcorn theſe poor and narrow pleaſures of ſin that are but for a ſeaſon: This is one thing that would make you Saints pre<g ref="char:EOLhyphen"/>ſently.</p>
+            <p>Secondly, <hi>And then make no queſtion</hi> but they may be yours: <hi>They may be all your own, if you will,</hi> you may have them as well as any one that already hath them, <hi>You</hi> may be ſaved as well as any thats already ſaved, <hi>God onely ſtayes and waits your Conſent;</hi> wilt thou not give thy Conſent to match with Chriſt, and be ſaved? ſhall ſin hinder thy ſo much hap<g ref="char:EOLhyphen"/>pineſſe? why doth God <hi>Offer</hi> you Heaven, but <hi>for you</hi> to make choyce of Heaven? <hi>Make Choyce</hi>
+               <note place="margin">Deut. 30. 19.</note> 
+               <hi>of Heaven, and have Heaven:</hi> why doth God open his ſhop, and ſet
+<pb n="70" facs="tcp:29527:48"/> all his Glorious Wares and Trea<g ref="char:EOLhyphen"/>ſures before you, but that he would have <hi>You</hi> to be his Chap<g ref="char:EOLhyphen"/>men? Sinners! <hi>God</hi> ſends his Miniſters to tender all theſe Glo<g ref="char:EOLhyphen"/>ries to you, and his Majeſty him<g ref="char:EOLhyphen"/>ſelfe ſtands waiting your Leaſure, his patience bears, his juſtice for<g ref="char:EOLhyphen"/>bears, his mercy intreats you, and his Spirit ſtrives with you to per<g ref="char:EOLhyphen"/>ſwade you, <hi>and will you make any Queſtion then but Heaven may be Yours?</hi> why did the Lord of Glo<g ref="char:EOLhyphen"/>ry come down from Heaven, but that ſinners might go up to Hea<g ref="char:EOLhyphen"/>ven? Sinners! <hi>a way is made for You to Heaven through the ſides of Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. Saints, how ſhould this ſtir ye up to Excell in Grace? Doth God love them moſt, that are Crowned with moſt Grace? Saints! this ſhould wing ye with an holy Ambition to be Eminent in Grace; not to be <hi>Ordinary</hi> in
+<pb n="71" facs="tcp:29527:48"/> Grace, but <hi>Eminent</hi> in Grace; not onely to <hi>Get</hi> Grace, but to <hi>Grow</hi> in Grace: oh! what a ſin is it to ſit down under Ordinary Grace, I ſay, to ſit down under ſo little Grace, when they that have much Grace are much beloved? and they that have more Grace are the more beloved? they that are great in Grace are greatly be<g ref="char:EOLhyphen"/>loved? <hi>O Daniel, thou art Greatly Beloved:</hi> Filiall and ingenuous natures ſtrive after the higheſt degrees of their Fathers love. In 1 <hi>Pet.</hi> 2. 20. The Apoſtle Exhor<g ref="char:EOLhyphen"/>ting Chriſtian Servants to ſuffer wrongs with Patience, ſaith he, <hi>What Glory is it, if when ye be buffe<g ref="char:EOLhyphen"/>ted for your Faults ye ſhall take it Patiently?</hi> but if when ye doe well and ſuffer for it, ye take it patiently, this is acceptable to God: <hi>But it is ſome Glory to ſuffer Patiently even then when we ſuffer for our Faults:</hi> Patience under
+<pb n="72" facs="tcp:29527:49"/> deſerved puniſhments hath its praiſe and glory alſo: It is ſome glory to ſuffer patiently, when we ſuffer meritoriouſly, and to die patiently when we die wor<g ref="char:EOLhyphen"/>thy of death, Patience under the Puniſhments we deſerve is a Ver<g ref="char:EOLhyphen"/>tue: How then doth the Apoſtle ſay, <hi>What Glory is it, if when ye be buffeted for your Faults, ye ſhall take it Patiently?</hi> I anſwer, The Apo<g ref="char:EOLhyphen"/>poſtle ſpeaks <hi>Comparatively;</hi> 'tis true, to ſuffer with patience, when we ſuffer for our deſerts, is ſome glory and commendation, but <hi>'tis no Glory</hi> at all <hi>in compa<g ref="char:EOLhyphen"/>riſon,</hi> I ſay, <hi>compared</hi> with that Noble patience, whereby we ſuffer meekly when we ſuffer un<g ref="char:EOLhyphen"/>juſtly; There's no glory at all in the other, in <hi>compariſon</hi> of <hi>this,</hi> this, oh this (ſaith the Apoſtle) is <hi>acceptable with God:</hi> This is an Eminent Patience, and ſhall have Eminent <hi>Acceptance</hi> with God.
+<pb n="73" facs="tcp:29527:49"/> Sirs, God would have his Saints to ſtep up unto an Eminency in in Grace; he would have them ſuffer moſt patiently, when they ſuffer moſt wrongfully; what<g ref="char:EOLhyphen"/>ever is more Choyce and Excel<g ref="char:EOLhyphen"/>lent in Grace than other, he would have his Saints ſoar up thither: And Sirs, methinks this one thing were enough to blow you up into a flame of deſires, I ſay this, <hi>The more Grace you have, the more Dear you are to God;</hi> They that are <hi>Greater</hi> in Grace are <hi>Greatly Beloved:</hi> The more Grace you lay up in you, the more love doth God lay out upon you. Saints! what ſay you? ſhall not this awake you? The more Grace is in thee, the more would God love thee: The more holy thou art above others, the more would God love thee above others.</p>
+            <p>Secondly, Nay, the more Grace
+<pb n="74" facs="tcp:29527:50"/> thou haſt, the more God loves thee above thy former ſelfe; he would not onely love thee more than <hi>others,</hi> but love thee more than thy <hi>former ſelfe;</hi> as thy Gra<g ref="char:EOLhyphen"/>ces <hi>increaſe</hi> in thee, his love would <hi>increaſe</hi> towards thee; as thou groweſt <hi>better,</hi> he would love thee <hi>better. Luke</hi> 2. 40. 'tis there ſaid of Jeſus Chriſt himſelfe, <hi>The Child grew and waxed ſtrong in Spirit,</hi> and 'tis added at <hi>v.</hi> 52. That as he <hi>Increaſed in wiſdome and ſtature, he increaſed in favour with God and man:</hi> Doe thou (ſaith <hi>Luther</hi>) underſtand the word of the Evangeliſt moſt plainly without any Gloſſe, that our Lord received increaſes day<g ref="char:EOLhyphen"/>ly, as in body, ſo in ſpirit, as o<g ref="char:EOLhyphen"/>ther men are wont to doe: I ſay, Jeſus Chriſt in reſpect of his hu<g ref="char:EOLhyphen"/>mane nature did grow and im<g ref="char:EOLhyphen"/>prove in ſoule and body; His ſoule improv'd in wiſdome, his
+<pb n="75" facs="tcp:29527:50"/> body in ſtature, and thus increa<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in favour with God and man. This phraſe is taken out of 1 <hi>Sam. 2. 26. And the Child Samuel grew</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and was in <hi>favour both with the Lord and alſo with men:</hi> I ſay, the Evangeliſt ſeems to fetch his expreſſion from this Text, to ſhew that Jeſus Chriſt put himſelfe into the ſame con<g ref="char:EOLhyphen"/>dition with other the ſons of men; as <hi>Samuel</hi> grew in Grace and favour with God, ſo did Chriſt: The more Illuſtrious the Image of God is in the Creature, the more is God delighted in the Creature. Now the Image of God was more Radiant and ſhi<g ref="char:EOLhyphen"/>ning in Chriſt a man, than in Chriſt a Child; and therefore Chriſt is ſaid to increaſe in Fa<g ref="char:EOLhyphen"/>vour: Neither doth this dero<g ref="char:EOLhyphen"/>gate from the Honour of Chriſt, (for this was done by the wiſe
+<pb n="76" facs="tcp:29527:51"/> diſpoſure of God ſo ordering it for our ſake) for upon the ſame account, you might ſay that 'twas unworthy of Chriſt to be a Child: but Jeſus Chriſt did Empty him<g ref="char:EOLhyphen"/>ſelfe for our ſake, <hi>His deſcent was our aſcent,</hi> his <hi>Emptying</hi> of himſelfe was the <hi>Fulneſſe,</hi> or <hi>Filling</hi> of us; he came ſo low as to grow in Spi<g ref="char:EOLhyphen"/>rit, and as he grew in ſpirit, he grew in favour with God: This knocks aloud at your doors, and bids you riſe out of your beds of ſlumber and ſecurity. Saints, why doe ye not put on for more Grace? are ye not ambitious every day to be lov'd more and more of God? to advance into his favour further to day than you were yeſterday? to get up higher ſtill into his heart? Then Act your Graces, and increaſe your Graces, <hi>The more Grace thou baſt, the more will God love thee a<g ref="char:EOLhyphen"/>bove thy former ſelfe.</hi>
+            </p>
+            <pb n="77" facs="tcp:29527:51"/>
+            <p>Thirdly, He will give more Grace to thee, the more thou haſt the more hee'l give thee: at firſt, God gives Grace where there's none; and then (becauſe he loves his own work) where he hath given the <hi>Bloſſomes</hi> of Grace, he gives <hi>additions</hi> of Grace, and the more Grace thou haſt, the more he will ſtill give thee: <hi>It hoſoever hath to him ſhall be given, and he</hi>
+               <note place="margin">Mat. 13. 12.</note> 
+               <hi>ſhall have more abundance:</hi> God gives Grace for Grace, to Grace Improved he makes New and Freſh additions of more Grace: as a Father gives his Son at firſt a ſtock to ſet up with, and ſeeing him to be a good Huſband, and thrive upon it, then he layes out more upon him, the ſons care is the fathers encouragement to give him more; ſo doth the Lord Jeſus Chriſt, <hi>He delights to</hi>
+               <note place="margin">John 15.</note> 
+               <hi>give where his gifts doe thrive, and to disburſe moſt, where his Graces
+<pb n="78" facs="tcp:29527:52"/> flouriſh beſt:</hi> Every branch that beareth fruit he purgeth it, that it may bring forth more fruit.</p>
+            <p>Fourthly, He will manifeſt himſelfe more <hi>to thee,</hi> than <hi>to o<g ref="char:EOLhyphen"/>thers;</hi> he will converſe with thee <hi>more</hi> than he will with others, thou ſhalt know <hi>more</hi> of his mind, and drink in <hi>larger depths</hi> of his diſcoveries: <hi>Paul</hi> was a great Saint, and the more Grace he had the more Revelations he had;<note place="margin">2 Cor. 12. 2, 4.</note> oh! what a Revelation had he, when he was caught up into Pa<g ref="char:EOLhyphen"/>radiſe, into the third Heaven, and heard unſpeakable words, which it is not lawfull [or poſſi<g ref="char:EOLhyphen"/>ble] for a man to utter?</p>
+            <p>Fifthly, He will love thy ſer<g ref="char:EOLhyphen"/>vices more than others; he would love to hear <hi>thee</hi> pray, and <hi>thee</hi> repent: the more Grace thou haſt in thee, the leſſe of the Fleſh there is in all thy duties; the more Heavenly and Holy thou
+<pb n="79" facs="tcp:29527:52"/> art, the more of God and the leſſe of man is in every ſervice.</p>
+            <p>Sixthly, The more Grace, the more Maſculine and Heroick hearts you'll have for God: Grace Ennobles the heart, and the <hi>Higher it reſeth in the heart, the higher it raiſeth up the heart:</hi> you would propoſe high things to your ſelves, you would dwell nearer God, and ſoar up nearer the ultimate end; you would be able to ſcorn ſin, and the world, you would not onely reſiſt ſin, but you would be able to ſcorn ſin and the world, you would trample upon temptations with the foot of diſdaine, you would have brave ſpirits in a good cauſe, you would eſtimate pub<g ref="char:EOLhyphen"/>lick good beyond all private re<g ref="char:EOLhyphen"/>flections and ſelfe intereſts, you would open your hands liberally for God, and the Goſpell, you would embrace ſufferings chear<g ref="char:EOLhyphen"/>fully,
+<pb n="80" facs="tcp:29527:53"/> and look upon death with freſh blood in your cheeks.</p>
+            <p>To Heroick Grace all ſervices are more facil and eaſie, than to thoſe that have but ordinary Grace: Heroick Grace differs from ordinary Grace [<hi>Non ſpecie ſed tantum Gradu</hi>] not in kind, but onely in degree; as heat in the fourth degree differs from heat in the firſt or ſecond, and therefore adde new degrees ſtill unto your Grace and then 'twill come to be Heroick Grace: <hi>It is a part of Badneſſe not to grow better.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. In the next place I muſt lay down an Uſe of Caution, as an Antidote againſt ſome Emer<g ref="char:EOLhyphen"/>gent thoughts and ſurmizes that may ariſe from this poynt.</p>
+            <p>Firſt, <hi>Afflicted Saints have not leſſe of God, love than others:</hi> They that are more afflicted are not leſſe beloved, and yet the afflicted
+<pb n="81" facs="tcp:29527:53"/> children think not ſo, they con<g ref="char:EOLhyphen"/>ceive their Father loves them leſſe than others, becauſe he Af<g ref="char:EOLhyphen"/>flicts them more than others, <hi>They interpret his love by his Rod:</hi> It is true, <hi>There is a great ſimilitude between a Curſe and a Croſſe,</hi> and oftentimes the children are de<g ref="char:EOLhyphen"/>ceived by it; but I pray, miſtake not your ſelves, ſometimes, <hi>They are in deepeſt Sufferings that are his deareſt Darlings: Jeſus Chriſt,</hi> the <hi>beſt beloved,</hi> was put to the worſt Sufferings, <hi>Jeſus Chriſt</hi> was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>He was greatly beloved,</hi> and yet greatly afflicted; Jeſus Chriſt was the King of ſufferings, <hi>The King of Saints was the King of Sufferings,</hi> and the Goſpell is di<g ref="char:EOLhyphen"/>rectly a Covenant of ſufferings and ſorrows: The old Law was built much upon Promiſes of Temporall proſperity, the Go<g ref="char:EOLhyphen"/>ſpell is founded in Temporall adverſity: <hi>The Heirs of God are
+<pb n="82" facs="tcp:29527:54"/> Heirs of Sufferiugs: Jeſus Chriſt</hi> was a Pattern of ſufferings, and the Goſpell of Chriſt is a Cove<g ref="char:EOLhyphen"/>nant of ſufferings; and the Saints muſt be followers of Chriſt in this Covenant of ſufferings: as men doe well and ſuffer ill, ſo they are dear to God; whom he loves moſt, he afflicts moſt, and doth this with a deſigne of the greateſt mercy in the world.</p>
+            <p>Secondly, God doth not love them more than others, that have more gifts than others, but that have more grace than others: for gifts qualifie, but graces ſanctifie; gifts may make thee an able man, but 'tis grace that makes thee an amiable man.</p>
+            <p>Thirdly, God doth not always love them more than others, that do him more ſervice than others; for he that hath leſſe grace, may doe God more outward ſervice, becauſe he hath more outward
+<pb n="83" facs="tcp:29527:54"/> power and eſtate: a man that hath leſſe Grace may have more Purſe than a better Saint, and ſuch a one may give more to the Goſpell, and pour forth more Acts of Charity, than a better Saint that hath more grace and leſſe means can doe: Nay a man that hath no grace at all (moving in an Orbe of Power and great<g ref="char:EOLhyphen"/>neſſe) may doe God more ſervice in ſome things than many private Saints can doe. <hi>Jehu</hi> in rooting out <hi>Ahabs</hi> family, and <hi>Baals</hi> Ido<g ref="char:EOLhyphen"/>latry, did more for God in that caſe, than all the Saints in that Kingdome could have done: oh then look to your graces, God loves grace and your ſervices for your graces.</p>
+            <p>Whom then doth God love more than others?</p>
+            <p>Firſt, Great Perſons match'd with graces ſuitable, are <hi>Gods greatly beloved;</hi> Thoſe that are
+<pb n="84" facs="tcp:29527:55"/> more Noble in Family, and more Noble in Grace too, <hi>are greatly beloved:</hi> for this is a Rule in na<g ref="char:EOLhyphen"/>ture, thoſe Creatures are moſt Honourable, which have the greateſt power, and doe the grea<g ref="char:EOLhyphen"/>teſt good: Greatneſſe is a brave ſubject for Grace, <hi>Gracious Great</hi> men are <hi>Great</hi> Stars, ſtars of the <hi>firſt Magnitude,</hi> they give more light than a Conſtellation of leſſer ſtars and meaner Chriſti<g ref="char:EOLhyphen"/>ans; How doth their light ſhine before men, and our Father glo<g ref="char:EOLhyphen"/>riſied in Heaven? and as they ſhine brighter than others in the lower Heaven, ſo I doubt not but they ſhall ſhine brighter than o<g ref="char:EOLhyphen"/>thers in the upper Heaven: How Exemplary are their Examples? How convincing and compelling is their Golineſſe? How power<g ref="char:EOLhyphen"/>full on others is the power of Godlineſſe <hi>in them?</hi> If for their Greatneſſe <hi>They are ſtiled Gods.
+<pb n="85" facs="tcp:29527:55"/> How near are they to God when they Act God in their Greatneſſe?</hi>
+            </p>
+            <p>Secondly, Men of great parts adorned with Graces proportio<g ref="char:EOLhyphen"/>nable are <hi>Gods greatly beloved:</hi> Thus Chriſts Apoſtles were his greatly beloved, and after them his Miniſters are his chiefeſt fa<g ref="char:EOLhyphen"/>vourites above others: Theſe are Gods great <hi>Love-tokens</hi> to his Church and people, they are Gods <hi>Incarnate Angells</hi> to his Church, ſo they are ſtiled, <hi>The Angells of the Churches:</hi> Now <hi>Angells</hi> are not onely <hi>Holy</hi> Crea<g ref="char:EOLhyphen"/>tures, but <hi>Intelligent</hi> Creatures; as they are <hi>Gracious,</hi> ſo they are <hi>Gifted</hi> Creatures.</p>
+            <p>Thirdly, God loves thoſe more than others, that believe more than others, becauſe Faith gives moſt glory to God: I think none will deny, but tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace which aſcribes moſt glory to God, is the darling-grace, moſt
+<pb n="86" facs="tcp:29527:56"/> tenderly beloved; and ſuch is Faith: Faith <hi>Honours</hi> God, and <hi>Humbles</hi> the Creature; it <hi>greatens</hi> God, and <hi>annihilates</hi> the Crea<g ref="char:EOLhyphen"/>ture.</p>
+            <p n="1">1. Faith advanceth free grace in our juſtification: Here ſhe <hi>layes</hi> man in the <hi>dust,</hi> and <hi>lifts</hi> free grace upon the <hi>throne,</hi> aſcribing all to <hi>mercy,</hi> nothing to <hi>merit,</hi> admiring free love, having the leaſt thoughts of ſelfe-worth: Faith decks Chriſt alone with the golden feathers of a ſaving righ<g ref="char:EOLhyphen"/>teouſneſſe, and deplumes the Creature of all gay and proud Imaginations, amidſt all her graces ſhe relies onely on free grace.</p>
+            <p n="2">2. Faith (in reſpect of grace and ſanctification) lives onely as a <hi>receiver,</hi> thats her <hi>Name</hi> in Scrip<g ref="char:EOLhyphen"/>ture, <hi>As many as received him:</hi> and <hi>What haſt thou which thou haſt not received?</hi> Faith comes to
+<pb n="87" facs="tcp:29527:56"/> Gods door, and knocks there, as a meer beggar: ſhe confeſſeth that her ſelfe is the gift of God, and that all Grace is the gift of God; ſhe waits as a beggar at Gods gate for every Grace.</p>
+            <p n="3">3. So when ſhe hath the prin<g ref="char:EOLhyphen"/>ciple of Grace, ſhe depends wholly upon divine Influence and aſſiſtance for the acting of Grace; the new Creature cannot move without the breathings of the Spirit upon it: The Spirit muſt plant graces in the ſoule, and then muſt dwell there and be with them ſtill, to keep them in being, and keep them in acti<g ref="char:EOLhyphen"/>on.</p>
+            <p n="4">4. Faith ſets up the ſtrength of God: A believer hath no o<g ref="char:EOLhyphen"/>pinion of his own ſtrength, when he prevailes with God, it is with a power which he hath from God, <hi>I can doe all things through Chriſt that ſtrengthens me.</hi>
+            </p>
+            <p n="5">
+               <pb n="88" facs="tcp:29527:57"/>5. Faith pleaſeth God: wick<g ref="char:EOLhyphen"/>ed men may ſerve God, and ſome wicked men doe him eminent ſervice, they who are evill, may doe that which is good for the matter of it: but tho it be poſſi<g ref="char:EOLhyphen"/>ble to <hi>ſerve</hi> God without faith, yet it is impoſſible <hi>to pleaſe</hi> God without faith; tho God may be pleaſed with a work, which is done without faith, yet he is never pleaſed with the Perſon doing a<g ref="char:EOLhyphen"/>ny work without faith.</p>
+            <p>Fourthly, God loves them more, that are more humble: <hi>I dwell with him that is of a contrite</hi>
+               <note place="margin">Iſa. 57. 15.</note> 
+               <hi>and humble ſpirit: thou deſireſt not ſacrafice, thou delighteſt not in burnt</hi>
+               <note place="margin">Pſal. 51. 16, 17.</note> 
+               <hi>offering;</hi> what is it then, God takes ſuch delight in? <hi>The ſacra<g ref="char:EOLhyphen"/>fices of God are a broken ſpirit:</hi> Let Gods love Exalt you, but let his gifts and graces humble you: and ſurely the more ſolid and ponderous Grace is, the more it
+<pb n="89" facs="tcp:29527:57"/> humbleth; the weightier a piece of Gold is, the more it preſſeth down the ſcale: Have ye <hi>lear<g ref="char:EOLhyphen"/>ning and parts?</hi> let me tell ye, the <hi>modeſt opinion</hi> of our know<g ref="char:EOLhyphen"/>ledge, is better than <hi>knowledge: Humility</hi> in Excellency Excelleth <hi>Excellency it ſelfe;</hi> I could wiſh, every one that hath gifts and parts, that <hi>like Moſes,</hi> he ſaw not the beams of his own face.</p>
+            <p>Fifthly, God loves them more that are more <hi>ſelfe-denying;</hi> that are not <hi>ſelfe-ſeekers,</hi> but ſeek his glory more than others: <hi>The up<g ref="char:EOLhyphen"/>right are his delight.</hi>
+            </p>
+            <p>Sixthly, God loves them more, that love him more: <hi>Love</hi> is the <hi>loadſtone</hi> of love; Love hath an <hi>attractive</hi> vertue, it draws God down from his throne into the ſoule, <hi>He dwells with love:</hi> What a great drawing power then hath a great love? This is the divine language of Lovers,
+<pb n="90" facs="tcp:29527:58"/> 
+               <hi>I live, yet not I, it is my beloved that</hi>
+               <note place="margin">Gal. 2. 20.</note> 
+               <hi>lives in me: I love my ſelfe not with my own love, but with the love of my beloved, that loves me: I love not my ſelfe in my ſelfe, but my ſelfe in him, and him in me.</hi>
+            </p>
+            <p>Laſtly, God loves them more, that are <hi>more Active</hi> for him: Idle Chriſtians, and idle Profeſ<g ref="char:EOLhyphen"/>ſours, God nauſeates: what is a thing that is of no Uſe? It is a <hi>Nothing:</hi> ſo ſaith <hi>Job</hi> to his mi<g ref="char:EOLhyphen"/>ſerable comforters, his friendleſſe friends, <hi>For now ye are nothing: Ye</hi>
+               <note place="margin">ob 6. 21.</note> 
+               <hi>are nothing</hi> for ye contribute <hi>no<g ref="char:EOLhyphen"/>thing</hi> of comfort to me; They that ſpeak not to purpoſe, ſpeak nothing. What is Idleneſſe, but a privation of diligence, or ab<g ref="char:EOLhyphen"/>ſence of Action? and privations are <hi>nothings:</hi> lazy Profeſſours are but ſo many <hi>privatives,</hi> they are not <hi>workers,</hi> they are not <hi>Agents,</hi> they profeſſe and <hi>doe no<g ref="char:EOLhyphen"/>thing;</hi> They believe in Jeſus
+<pb n="91" facs="tcp:29527:58"/> Chriſt, and yet <hi>doe nothing</hi> for Jeſus Chriſt: The Phyloſophers ſay that in Nature there is no <hi>Vacuum,</hi> I could wiſh it were ſo in Chriſtianity. But I have done with this Uſe.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 4. Yet this ſpeaks Com<g ref="char:EOLhyphen"/>fort <hi>to weak Saints;</hi> to Saints of <hi>more infirmities,</hi> and <hi>leſſer Graces</hi> than others: <hi>You</hi> will preſently object and ſay, then the Lord cares not much for me; hee'l ſcarce look upon me, I have ſo little grace; if he loves accor<g ref="char:EOLhyphen"/>ding to grace, I ſhall have love little Enough, for I am ſure, I have grace little enough; ſuch and ſuch Saints ſhall go away with all his love. <hi>But be Comfor<g ref="char:EOLhyphen"/>ted,</hi> you that are <hi>young</hi> Chriſtians, and <hi>weak</hi> Chriſtians, for</p>
+            <p>Firſt, God loves you too; nay God loves his weak Saints with more love of <hi>Compaſſion,</hi> though he loves great Saints
+<pb n="92" facs="tcp:29527:59"/> with more love of <hi>Communica<g ref="char:EOLhyphen"/>tion:</hi> as we love our <hi>young,</hi> as well as our <hi>ſtrong;</hi> nay, we love our <hi>babes and young ones</hi> with more <hi>tenderneſſe,</hi> than we doe our <hi>ſtrong ones. Ariſtotle</hi> obſerves it a ſpe<g ref="char:EOLhyphen"/>ciall inſtinct of nature, whereby Parents are moſt tender of the <hi>youngeſt Children,</hi> becauſe they can leaſt help themſelves: ſo the <hi>weakeſt Saints</hi> have the moſt <hi>kiſſes</hi> from God, the Parent kiſſeth the babe and little child, when the elder child is not kiſſed; For, ſaith he, this is but a <hi>little child:</hi> And ſo, when the Prodigall comes home, the Father falls upon his neck, and kiſſes him, why? but becauſe upon his firſt Return, he is a Babe in Chriſt.</p>
+            <p>Secondly, Becauſe thou haſt but little grace in thee, doe not ſay, that Gods love is but little, for a <hi>little</hi> grace is the gift of <hi>great</hi>
+               <pb n="93" facs="tcp:29527:59"/> love, 'twas great love in God, to give thee any grace: <hi>little</hi> grace is of a <hi>great</hi> price, as a <hi>Pearl</hi> of <hi>ſmall</hi> ſize, is of <hi>huge</hi> worth; God gives himſelfe to thee in the leaſt grace: little grace ſhall have in<g ref="char:EOLhyphen"/>finite glory; and therefore little grace was the gift of infinite love.</p>
+            <p>Thirdly, Thy time is coming, wherein God will love thee as much, as greater Saints; it may be, more: for as thou groweſt up to more grace, God will love thee with more love. Sometimes one that is but a child, (when a<g ref="char:EOLhyphen"/>nother is a man) groweth taller by far than the other: ſo though thou art now but a child in grace to a greater Saint, yet thou mayſt be taller in grace one day than he is; and then Gods love will be higher to thee than to him.</p>
+            <p>Fourthly, Some Saints Excell in <hi>one</hi> grace, and ſome in <hi>another:</hi>
+               <pb n="94" facs="tcp:29527:60"/> Though ſome Saints <hi>over-match</hi> thee in this or that grace, yet (it may be) thou doſt <hi>out-bid</hi> them in ſome other graces. Thus doe ſome reconcile thoſe two Scrip<g ref="char:EOLhyphen"/>tures, in 2 <hi>Kings</hi> 18. 5. there 'tis ſaid of <hi>Hezekiah,</hi> that <hi>after him there was none like him among all the Kings of Judah:</hi> and in 2 <hi>Kings</hi> 23. 25. there 'tis ſaid of <hi>Joſiah,</hi> that <hi>like unto him there was no King before him, that turned to the Lord with all his heart:</hi> It is ſaid of <hi>Hezekiah, that after him there was no King like him,</hi> yet 'tis ſaid of <hi>Joſiah, that before him there was no King like him:</hi> How can truth ſtand in both theſe? When 'tis ſaid of <hi>Hezekiah, that after him there was no King like him,</hi> 'tis to be underſtood of <hi>ſome particular Grace eſpecially</hi> wherein he Ex<g ref="char:EOLhyphen"/>celled, that is, his truſting in the Lord; as 'tis ſaid, <hi>He truſted in the Lord, ſo that after him there was
+<pb n="95" facs="tcp:29527:60"/> none like him,</hi> they explain it thus, He brake in pieces the Brazen ſerpent, that <hi>Moſes</hi> had made, and in this and other acts of Re<g ref="char:EOLhyphen"/>formation, he met with ſtrong oppoſition, his Princes and great ones (ſome of them) did not like what he did, and ('tis probable) they diſcourage him, and tell him, if you doe thoſe things, if you change theſe things, if you change theſe ancient cu<g ref="char:EOLhyphen"/>ſtomes, you will bring a world of trouble upon your ſelfe and the Kingdome, you will make your people mutiny, the Brazen ſer<g ref="char:EOLhyphen"/>pent, which you go about to ſtamp to powder, it was of God; yet (ſaith he) I care not for all you ſay, I will doe my duty, and truſt God with the Iſſue: Thus of all the Kings that were after him, there was none like him in <hi>truſting in the Lord.</hi> And as for <hi>Joſiah,</hi> of all the Kings that were <hi>before him,</hi> there was none like
+<pb n="96" facs="tcp:29527:61"/> him in another particular, <hi>his zeale for the Lord.</hi> Thus ſome Saints Excell in one Grace and ſome in another.</p>
+            <p>Fiſthly, If thou canſt not at<g ref="char:EOLhyphen"/>tain <hi>Greatneſſe</hi> in Grace, yet be ſure to have <hi>uprightneſſe</hi> in Grace: <hi>An upright Saint loves God by him<g ref="char:EOLhyphen"/>ſelfe,</hi> abſtracted from the world; It is to be doubted, that many of us love not God <hi>abſtracted</hi> from the comforts, liberties, and en<g ref="char:EOLhyphen"/>joyments we have with him: many of us (I fear) would count our <hi>profiſſion</hi> our <hi>puniſhment,</hi> were we to ſuffer reproach, and pover<g ref="char:EOLhyphen"/>ty, for our profeſſion: as one that loves a woman in her fine cloaths and apparell that ſets her out; ſo doe many love God whilſt he is dreſſed up in Rich Roabs of liberality and bounty to them, theſe ſet him out to their carnall Eye: but an upright Saint loves God abſtracted from
+<pb n="97" facs="tcp:29527:61"/> the world, when he is diſrobed of all Gifts and Bounties to them.</p>
+            <p>
+               <hi>And this leads me now</hi> into the Diſcourſe of this great man, and great Saint, whoſe <hi>Funeralls</hi> we at this time <hi>Celebrate;</hi> He was a Great Man by birth, he was a <hi>Great Saint</hi> by Grace, and there<g ref="char:EOLhyphen"/>fore <hi>Greatly beloved:</hi> I ſhall not ſpeak the <hi>Greatneſſe</hi> and <hi>Antiquity</hi> of his <hi>Honourable Family,</hi> although <hi>theſe ſhining Adjuncts</hi> ſet him out in <hi>brightneſſe</hi> and <hi>ſplendour</hi> to the Eye of the world, yet becauſe they make not <hi>a man Greatly be<g ref="char:EOLhyphen"/>loved</hi> in the Eye of God, I ſhall rather ſpeak of <hi>thoſe Titles of Ho<g ref="char:EOLhyphen"/>nour</hi> that are not <hi>written in Duſt,</hi> thoſe things that did <hi>Greaten</hi> his Greatneſſe.</p>
+            <p>I know he had his <hi>Humanities,</hi> for we are all but <hi>men,</hi> till we are <hi>Gloriſied Saints,</hi> and then our <hi>in<g ref="char:EOLhyphen"/>firmi</hi>-<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="100" facs="tcp:29527:62"/> Parts: This Country lay under a Vaile of darkneſſe till he began to ſhine. He ſet his firſt choyce upon that Tranſcendent Holy man, Mr. <hi>Peacock</hi> in <hi>Oxford,</hi> but God took him to Heaven, which prevented his coming to <hi>Bramp<g ref="char:EOLhyphen"/>ton:</hi> Then Providence led him to the knowledge of that now<g ref="char:EOLhyphen"/>bleſſed ſervant of God, Mr. <hi>Peir<g ref="char:EOLhyphen"/>ſon,</hi> whoſe Exemplary Graces and Miniſtery ſhed a rich Influ<g ref="char:EOLhyphen"/>ence abroad the Country.</p>
+            <p>And as God removed godly Miniſters by Death, he <hi>continued</hi> ſtill a ſucceſſion of them to you, not onely <hi>Brampton-Brian,</hi> but <hi>Ye</hi> alſo of <hi>Wigmore,</hi> and <hi>Ye</hi> of <hi>Leynt<g ref="char:EOLhyphen"/>wardine,</hi> owe your very ſouls to <hi>Sir Robert Harley,</hi> who maintained your Miniſters upon his own coſt, that they might ſeed you with the Goſpell of <hi>Jeſus Chriſt.</hi>
+            </p>
+            <p n="3">3. He was the <hi>Pillar</hi> of Reli<g ref="char:EOLhyphen"/>gion among Us: How would
+<pb n="101" facs="tcp:29527:62"/> he countenance Godlineſſe? his Greatneſſe Profeſſing Chriſt brought Profeſſion into Credit, and caſt a luſtre on it, Profeſſion began to grow and ſpread it ſelfe under his ſhade.</p>
+            <p n="4">4. His <hi>Planting</hi> of godly Mi<g ref="char:EOLhyphen"/>niſters, and then <hi>Backing them</hi> with his Authority, made Reli<g ref="char:EOLhyphen"/>gion famous in this little corner of the world.</p>
+            <p>Oh! what comfortable Times had we (through Gods mercy) before the wars! how did our Publick meetings ſhine with his Exemplary Preſence in the midſt of them!</p>
+            <p n="5">5. He would feed heartily upon the Ordinances: He came with hunger to them, and did afterward digeſt them into reall Nutriment; How would his heart melt under the word, and diſſolve into liquid Tears! I have ſeen him thaw and diſtill, as
+<pb n="102" facs="tcp:29527:63"/> the weeping Trees under the winter-Sun beams.</p>
+            <p n="6">6. He did deal much in Pray<g ref="char:EOLhyphen"/>er: He would Embark no un<g ref="char:EOLhyphen"/>dertaking till he had fought God, he would frait his Veſſell, hoyſe up the maſt, and ſpread the ſailes, (he would not neglect the means) yet he would by Prayer beg the winds, and wait the Gales of Providence to ſet his ſhip a go<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="7">7. His houſe was an houſe of Prayer: 'twas the Center where the Saints met to ſeek God.</p>
+            <p n="8">8. He was noble in his libera<g ref="char:EOLhyphen"/>lity to the Saints in their wants: Their Neceſſity was his Oppor<g ref="char:EOLhyphen"/>tunity.</p>
+            <p n="9">9. He was ſpirited with a keen hatred of ſin and prophan<g ref="char:EOLhyphen"/>neſſe: He would not, I may ſay, he could not brook it in any un<g ref="char:EOLhyphen"/>der his Roof; he would often
+<pb n="103" facs="tcp:29527:63"/> ſay, <hi>He cared not for the ſervice of one that feared not God.</hi>
+            </p>
+            <p n="10">10. He was a friend to Gods friends: They that did love God, had his love, Gods people were his darlings, they had the Cream of his affections; if any poor Chriſtian were Cruſh'd by malice or wrong, whither would they fly but <hi>to Sir Robert Har<g ref="char:EOLhyphen"/>ley?</hi>
+            </p>
+            <p n="11">11. Againe, if at any time he had been Angry, he would quickly deſire to be Reconci<g ref="char:EOLhyphen"/>led, ſaying, <hi>We muſt take heed leaſt the Devill come be<g ref="char:EOLhyphen"/>tween.</hi>
+            </p>
+            <p n="12">12. He loved his Children moſt tenderly, I think, no man in the world carried more of a Fathers dearneſſe in him, than he did; yet he would never bear with any Evill in any of his Chil<g ref="char:EOLhyphen"/>dren: he would often ſay to them, <hi>I deſire nothing of you but
+<pb n="104" facs="tcp:29527:64"/> your love, and that you keep from Sin.</hi>
+            </p>
+            <p n="13">13. The <hi>ſoule</hi> of his Religion was <hi>ſincerity:</hi> he knew no End but to ſerve God, and to be ſa<g ref="char:EOLhyphen"/>ved. I ſhall in this place bring in a notable ſpeech of his about a year and halfe ſince; when a <hi>moſt Eminent Minister</hi> of the Land came to viſit him, and aſk't him, what comfortable Evidences he had of his ſalvation? he anſwe<g ref="char:EOLhyphen"/>red, <hi>He had nothing to rely upon but Jeſus Chriſt, and he knew no Re<g ref="char:EOLhyphen"/>ligion but ſincerity.</hi>
+            </p>
+            <p n="14">14. He was a great honourer of <hi>Godly Miniſters:</hi> he carried them in his boſome, of all men in the world they ſate next his heart, he did hug them in his deareſt Embraces; I muſt tell you he <hi>was their Sanctuary in Evill Times:</hi> How oft hath he inter<g ref="char:EOLhyphen"/>poſed between them and dan<g ref="char:EOLhyphen"/>gers? when <hi>ſinfull Greatneſſe</hi> did
+<pb n="105" facs="tcp:29527:64"/> frown upon them, <hi>this great man</hi> would ſhew himſelfe upon the ſtage for them.</p>
+            <p>When Mr. <hi>Pierſon</hi> was queſti<g ref="char:EOLhyphen"/>oned before the Biſhop, <hi>Sir Robert Harley</hi> was not afraid to appear conſtantly in his defence; I could tell you, that he felt the frowns and diſpleaſures of <hi>a near Relation,</hi> rather than he would deſert that Servant of Jeſus Chriſt: When <hi>Dr. Stoughton</hi> and <hi>Mr. Workman</hi> were in trou<g ref="char:EOLhyphen"/>ble, <hi>Sir Robert Harley</hi> accompa<g ref="char:EOLhyphen"/>nied them to the <hi>High Commiſſion,</hi> which made the <hi>Archbiſhop</hi> dart frowns upon him.</p>
+            <p n="15">15. He was alſo a <hi>Magiſtrate,</hi> and herein (I muſt tell you) he was animated with a <hi>moſt nimble Soul of Zeale againſt Sin:</hi> He was full of ſpirits againſt all diſho<g ref="char:EOLhyphen"/>nours done to God, he was a Terrour to Evill works, he knew no Reſpect of Perſons in a buſi<g ref="char:EOLhyphen"/>neſſe
+<pb n="106" facs="tcp:29527:65"/> wherein God was wronged: among other things, how would he Vindicate <hi>the Sabbath</hi> from tempt? Prophanneſſe durſt not appear upon the face of it, by this means the Congregations were frequented on the Lords dayes, and many thouſand ſoules pre<g ref="char:EOLhyphen"/>vented from their ſinfull ſports, ſate under the droppings of the word.</p>
+            <p n="16">16. He paid a dear devotion of love to the Lords day (<hi>that Pearle of the week</hi>) when the li<g ref="char:EOLhyphen"/>centious ſinfulneſſe of times cry<g ref="char:EOLhyphen"/>ed it down, how often have I heard him plead it up with Ex<g ref="char:EOLhyphen"/>cellency of Arguments?</p>
+            <p>And in his own Practice he roſe alwayes Earlier upon the Lords day (and dayes of Humi<g ref="char:EOLhyphen"/>liation) even to the times of his extream weakneſſe: <hi>He rejoyced ſtill when the Sabbath came,</hi> and was uſually more chearfull that
+<pb n="107" facs="tcp:29527:65"/> day, than others, even in his ſick<g ref="char:EOLhyphen"/>neſſe: He wept much, when his ſervants ſuffered him to ſleep on the Lords day later than he uſed, although he had not reſted all that night.</p>
+            <p n="17">17. He was one that did Swim deep in the Tide of Faſting and Humiliation; I have ſeldome ſeen an heart broken upon ſuch a day as his was wont to be: He was one that did ſtand in the Gap, that did ſigh and cry for the Abominations done in the Land, and for it God ſet a mark upon his forehead: Though his Caſtle was ruined, yet God ſet a Mark upon him, when the naked Sword that Meſſenger of death walkt the Land and lookt keen upon you: And God ſet his ſeal of ſafety<g ref="char:punc">▪</g> upon his dear Lady, <hi>That Noble Lady and Phaenix of Women</hi> dyed in Peace, though ſurrounded with Drums and
+<pb n="108" facs="tcp:29527:66"/> noyſe of War, yet ſhe took her leave in Peace; The ſword had no force againſt her, as long as God preſerved her, he preſerved the Place where ſhe was. And the man cloath'd with linnen ſet a Mark alſo upon the forehead of his Children, for when they with the Caſtle were ſurrendred up, God made their Enemies to treat them gently, he had his Jewells ſent ſafely to him by the hand of Providence.</p>
+            <p n="18">18. He was (I know not how oft) choſen by his Country to the <hi>High Senate and Court of Par<g ref="char:EOLhyphen"/>liament:</hi> and there (that I may ſpeak within my knowledge) <hi>He was</hi> a bright and glorious Star in that ſhining Conſtellation; as ſome Stars are more Excellent than others, ſo was he there: He was a Man of fixed Principles, <hi>Religion</hi> and <hi>ſolid Reformation</hi> was all the white he ſhot at; He
+<pb n="109" facs="tcp:29527:66"/> appeared all along for a <hi>Setled Miniſtery,</hi> and the <hi>liberall Mainte<g ref="char:EOLhyphen"/>nance</hi> thereof: He procured the <hi>Ordinance</hi> for ſetling the Miniſters at <hi>Hereford:</hi> His Compaſſe with<g ref="char:EOLhyphen"/>out Trepidation or Variation ſtood Conſtantly Right to that Pole, the Good of his Country and Goſpell, which he kept ever in his Eye. And though his loſſe were Vaſt in thoſe Deſtroying times, yet he labour'd not for Re<g ref="char:EOLhyphen"/>compence of his private loſſes, nor receiv'd any in the world.</p>
+            <p>He was very Zealous againſt <hi>Superſtition and Hereſie:</hi> and for <hi>Church Government;</hi> when one of the Parliament ſaid to him, Sir <hi>Robert Harley,</hi> why are you thus Earneſt for <hi>Presbytery?</hi> you ſee it is ſo oppoſed, that it is in vain to ſeek to ſettle it: he Replyed, <hi>Let us ſo much rather be Earneſt for it,</hi> though we gain it by Inches<g ref="char:punc">▪</g> what we obtain now with much
+<pb n="110" facs="tcp:29527:67"/> difficulty and oppoſition, ſhall be of uſe one day, <hi>when there ſhall not be heard ſo much as the ſound of a Hammer.</hi>
+            </p>
+            <p n="19">19. He could (when he was put to it) live by Faith: In the Wars, when the ſtream of his Eſtate (which ſhould have main<g ref="char:EOLhyphen"/>tain'd and watred him and his Family) was diverted wholly from them, he would ſay often, <hi>Dear Children, it may be God will bring us to want Bread,</hi> ſome ſay, it is baſe to live from hand to mouth, but <hi>I am of another mind, I finde it the beſt way of living:</hi> and (which was an high Expreſ<g ref="char:EOLhyphen"/>ſion) <hi>Who can be afraid of Gods Providence?</hi> welcome what the Lord ſends, <hi>if it go well with the Church it is no matter.</hi>
+            </p>
+            <p n="20">20. His ſoul was Paved with humble ſubmiſſion to God in hardeſt diſpenſations: When after the Wars he return'd into
+<pb n="111" facs="tcp:29527:67"/> the Country, and came to ſee with what face <hi>Brampton</hi> look't, he rode toward his <hi>Caſtle Gate,</hi> and ſeeing the Ruines, put off his hat, and ſaid, God hath brought Great Deſolation upon this Place ſince I ſaw it; <hi>I deſire to ſay, The Lord hath given, and the Lord hath taken, and bleſſed be the name of the Lord,</hi> in his good time he will raiſe it up again; <hi>when his Houſe is built,</hi> God (I truſt) will build mine: and obſerve, that he took Care to build this Houſe or Place of wor<g ref="char:EOLhyphen"/>ſhip, and let his own lie buried ſtil in <hi>its Woefull Ruines.</hi>
+            </p>
+            <p>
+               <hi>You have had</hi> the faire and ſumptuous <hi>Proſpect</hi> of his Life, which ſtood aloſt like <hi>a beautious City upon an Hill.</hi>
+            </p>
+            <p>Let us now follow him to his <hi>Sickneſſe,</hi> which (you know) confined him ſome years to his <hi>Chamber:</hi> And here I ſee <hi>the
+<pb n="112" facs="tcp:29527:68"/> ſeaven ſtars,</hi> or <hi>ſeaven Celeſtiall ſignes</hi> appear in the night of his Sickneſſe.</p>
+            <p>Firſt, The greateſt trouble of his ſickneſſe to him was, that it diſabled him from Enjoying the <hi>Publick Ordinances:</hi> He dearly loved the <hi>ſolemn Aſſemblies,</hi> one day in Gods Court was <hi>better to him than a thouſand:</hi> The want of the <hi>Publick Ordinances</hi> was the <hi>ſickneſſe</hi> of his ſickneſſe.</p>
+            <p>Secondly, <hi>His divine employ<g ref="char:EOLhyphen"/>ment:</hi> Moſt of his time (both day and night) whilſt he was detained in his Chamber, was ſpent in hearing ſome good Book or the Scriptures read to him: he uſed very often to hear the 17 Chapter of St. <hi>John,</hi> and the 8 to the <hi>Romans</hi> read to him; and thoſe two Golden Texts in the 8 to the <hi>Romans, All things work together for Good to them that love God:</hi> and, <hi>He that ſpared not
+<pb n="113" facs="tcp:29527:68"/> his own Son, but delivered him up for us all, how ſhall he not with him alſo freely give us all things?</hi> He would repeat often, ſaying, <hi>He knew no ſuch Cordialls.</hi>
+            </p>
+            <p>Thirdly, <hi>His Victory over Sa<g ref="char:EOLhyphen"/>than:</hi> It pleaſed God about two years ſince to permit Satan to buffet him ſeverall times; once he lay all night, and ſlept not, and he was heard to ſay often, <hi>Lord rebuke the Tempter, Lord give Victory, Lord be Gracious,</hi> with theſe Expreſſions he ſpent five or ſix hours: in the morn<g ref="char:EOLhyphen"/>ing he ſpake very chearfully, and ſaid, he would be laid to ſleep; and having taken quiet Reſt he awaked, <hi>and ſaid,</hi> that all the ſins of his life had been laid before him that night, and thoſe things (<hi>he ſaid</hi>) that he had long for<g ref="char:EOLhyphen"/>gotten, he then Remembred: <hi>He ſaid,</hi> the Tempter had been very buſie, but <hi>bleſſed be God, I
+<pb n="114" facs="tcp:29527:69"/> did not</hi> ſleep untill I had made my peace with God, through Jeſus Chriſt: Then he chear<g ref="char:EOLhyphen"/>fully ſaid a little while after, <hi>God may let Satan</hi> buffet us for a time, but he ſhall never prevaile; after this, his chearfulneſſe conti<g ref="char:EOLhyphen"/>nued without interruption.</p>
+            <p>Fourthly, <hi>His willingneſſe to die:</hi> He was wont to ſay, <hi>Many wiſh to live over their lives againe,</hi> that they might mend what had been amiſſe; <hi>I would not be to live</hi> over my life again, leaſt I ſhould make it worſe, <hi>I would not for all the world</hi> be young again, becauſe I would not be <hi>ſo far from Hea<g ref="char:EOLhyphen"/>ven:</hi> And he would ſay to his Children, when he had them about him, <hi>I have taught you</hi> how to live, and I hope <hi>I ſhall teach you</hi> how to die.</p>
+            <p>Fifthly, <hi>His patience</hi> under his ſharp ſufferings: His diſeaſe was <hi>Stone and Palſie:</hi> and they
+<pb n="115" facs="tcp:29527:69"/> that know theſe, muſt look for Tortures; yet in his ſharpeſt Pains and Torments, he would mollifie them with this conſide<g ref="char:EOLhyphen"/>ration, <hi>That is Beſt which God cloth;</hi> He would often ſay, <hi>The will of the Lord</hi> be done, above all, and in all, <hi>for that is beſt of all:</hi> and he would ſupport him<g ref="char:EOLhyphen"/>ſelfe under his ſharp pains with this Meditation, <hi>Heaven will make amends for all:</hi> and ſometimes, when asked how he did, he would anſwer, <hi>Poor, but going to Heaven as faſt as I can:</hi> his lips (like an honey combe) would drop ſuch ſweet Expreſ<g ref="char:EOLhyphen"/>ſions as theſe, <hi>If the Lord ſee it beſt</hi> for me, that the ſtone in the Bladder ſhould be the way to bring me to Heaven, his will be done, <hi>It is better</hi> to die of the ſtone in the Bladder, than of the ſtone in the heart: Thus (if you obſerve) he fed his <hi>Patience,</hi>
+               <pb n="116" facs="tcp:29527:70"/> under the divine hand, with <hi>divine</hi> arguments: <hi>That place of Scripture, I Cor. 10. 13. There hath no temptation taken you, but ſuch as is common to man, but God is faith<g ref="char:EOLhyphen"/>full, who will not ſuffer you to be tempted above that you are able, He did often mention</hi> with joy, ſaying, it was the firſt place, whereby God gave him Comfort: and ſome few days before his death, when he was in much pain, he ſaid, <hi>Bleſſed be God who</hi> brings this place with comfort to me, where<g ref="char:EOLhyphen"/>by I had received firſt joy, and ſo repeated thoſe words, <hi>There is no Temptation, &amp;c.</hi> adding further, <hi>Bleſſed be God,</hi> Bleſſed be what comes in the the name of the Lord, Lord be gracious. Thus you ſee his Admirable Patience.</p>
+            <p>Sixthly, <hi>His love</hi> to the Glory of God, and the Church of God: To joy under great afflictions is a hard matter: water quencheth fire, yet
+<pb n="117" facs="tcp:29527:70"/> his joy in that which concern'd God his affliction could not ex<g ref="char:EOLhyphen"/>tinguiſh: he was wont to pray conſtantly ſince the ruines and deſolations of <hi>Brampton,</hi> that <hi>God would reſtore</hi> the Goſpel <hi>hither,</hi> and two days before his death he re<g ref="char:EOLhyphen"/>joyced exceedingly, when he was told that this Place of <hi>Publick wor<g ref="char:EOLhyphen"/>ſhip</hi> was finiſhed. <hi>About three days</hi> before his Death, when he aroſe and went to prayer (as he con<g ref="char:EOLhyphen"/>ſtantly uſed to do) though not a<g ref="char:EOLhyphen"/>ble to Enlarge in Prayer, becauſe of weakneſſe, he Prayed for the <hi>Ruine of Antichriſt,</hi> for the <hi>Churcher of God</hi> beyond Sea, naming <hi>Savoy, Switzerland, Germany. Upon the Fifth of November,</hi> though very weak, and under great pains, yet he bleſſed God for the <hi>Great mercy of that Day</hi> to the <hi>Church,</hi> and the <hi>Nation,</hi> and to <hi>himſelf,</hi> who was of the <hi>Parliament,</hi> when the <hi>Powder Plot</hi> was intended, &amp; for the <hi>many
+<pb n="118" facs="tcp:29527:71"/> Mercies</hi> God had vouchſafed <hi>him</hi> to ſee, ſince that time in the <hi>Church,</hi> and in his own <hi>Family,</hi> for <hi>his Lady</hi> the mother of his children, <hi>who</hi> (he ſaid) was gon to Heaven before him, and for his <hi>Childrens Children,</hi> and for his <hi>Hearing,</hi> which being loſt, God reſtored him perfectly: Thus the day before he dyed he kept <hi>A day of Thanksgiving</hi> to God for all his former mercies: oh! what ſpiritual and Angelical Ele<g ref="char:EOLhyphen"/>vation of heart was this? his ſoul was <hi>Muſical,</hi> like the Swan he ſang before his death; which leads me to another Branch,</p>
+            <p>Seventhly, <hi>his faith &amp; aſſurance:</hi> a godly Miniſter ſpeaking to him concerning his diſſolution, he ſaid <hi>what matter is it,</hi> if my poor cottage be falling here below? <hi>I am ſure of</hi> a fair houſe upon the Top of yon<g ref="char:EOLhyphen"/>der hill. A day or two before his Death, the 5 of <hi>Job</hi> being read to him in courſe, <hi>he ſaid,</hi> he that hath
+<pb n="119" facs="tcp:29527:71"/> been with me in ſix troubles, will not leave me in the ſeventh. And laſtly, having (<hi>like good old Jacob</hi>) given his bleſſing to all his Chil<g ref="char:EOLhyphen"/>dren that were then at home, and to his Grandchildren, deſiring the Lord to bleſſe and ſanctifie them particularly, I ſay, having don this about an hour before his death, though under Extream Pain, he ſaid, <hi>Bleſſed be God for this quiet Peace:</hi> Thus his Peace with God ſhined like a Candle in his heart, till his lamp of life went out with theſe laſt words, <hi>I die, Lord be Gra<g ref="char:EOLhyphen"/>cious;</hi> In the flame of theſe words his ſoule (like the Angell of God that appeared to <hi>Manoah</hi>) aſcended and went up to Heaven: <hi>Thus this Glorious Saint went up to Glory.</hi>
+            </p>
+            <p>In the beſt times there were few or none better, in theſe decli<g ref="char:EOLhyphen"/>ning times he hath left almoſt none like him among us, I pray God to double the Spirit of decea<g ref="char:EOLhyphen"/>ſed
+<pb n="120" facs="tcp:29527:72"/> 
+               <hi>Elijah</hi> upon his ſurviving <hi>Eliſha:</hi> The Lord repair the Ruines of this Caſtle, and build up this Great Family for the Glory of his Name in theſe Parts.</p>
+            <p>
+               <hi>Before I leave,</hi> I cannot but tell you, how God hath taken <hi>Three brave men</hi> of late from us; The <hi>Firſt</hi> upon whom the lot fell was Mr. <hi>Richard More</hi> of <hi>Linley,</hi> the <hi>next</hi> was Mr. <hi>Humphrey Walcot</hi> of <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alcot,</hi> and now it hath fallen upon <hi>Renowned Sir Rubert Harley:</hi> I mention them here together, becauſe theſe <hi>Three</hi> were the <hi>Triangles</hi> of our Country; and whilſt they lived were ſpecial friends, and of one heart for God in the concernments of his Gopell. <hi>And now I have done,</hi> onely to put you in mind a little of your ſelves, you ſee, you are dying creatures, oh then! Conſider your later End: <hi>The conſideration of our laſt End, ſhould be the Exerciſe of our Firſt thoughts;</hi> to conſider our end, would be the end of our ſins, and the Reſurrection of our Repen<g ref="char:EOLhyphen"/>tance: Aſhes keep fire alive, ſo this conſi<g ref="char:EOLhyphen"/>deration, that we are <hi>Duſt</hi> and <hi>Aſhes</hi> will keep our Graces alive.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29527:72"/>
+         </div>
+      </body>
+   </text>
+</TEI>
